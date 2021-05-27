@@ -4,7 +4,7 @@
 
 class Dumpzilla < Formula
   homepage ""
-  head "git://gitlab.com:kalilinux/packages/dumpzilla.git"
+  head "https://gitlab.com:kalilinux/packages/dumpzilla.git"
   
 
   # depends_on "cmake" => :build

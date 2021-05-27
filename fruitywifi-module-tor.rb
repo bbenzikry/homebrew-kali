@@ -4,7 +4,7 @@
 
 class FruitywifiModuleTor < Formula
   homepage ""
-  head "git://gitlab.com:kalilinux/packages/fruitywifi-module-tor.git"
+  head "https://gitlab.com:kalilinux/packages/fruitywifi-module-tor.git"
   version "module"
   
 

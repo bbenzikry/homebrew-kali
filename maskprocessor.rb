@@ -4,7 +4,7 @@
 
 class Maskprocessor < Formula
   homepage ""
-  head "git://gitlab.com:kalilinux/packages/maskprocessor.git"
+  head "https://gitlab.com:kalilinux/packages/maskprocessor.git"
   
 
   # depends_on "cmake" => :build

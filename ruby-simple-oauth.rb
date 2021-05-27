@@ -4,7 +4,7 @@
 
 class RubySimpleOauth < Formula
   homepage ""
-  head "git://gitlab.com:kalilinux/packages/ruby-simple-oauth.git"
+  head "https://gitlab.com:kalilinux/packages/ruby-simple-oauth.git"
   version "simple"
   
 

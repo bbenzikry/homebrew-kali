@@ -4,7 +4,7 @@
 
 class Rebind < Formula
   homepage ""
-  head "git://gitlab.com:kalilinux/packages/rebind.git"
+  head "https://gitlab.com:kalilinux/packages/rebind.git"
   
 
   # depends_on "cmake" => :build

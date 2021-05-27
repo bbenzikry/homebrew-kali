@@ -4,7 +4,7 @@
 
 class FernWifiCracker < Formula
   homepage ""
-  head "git://gitlab.com:kalilinux/packages/fern-wifi-cracker.git"
+  head "https://gitlab.com:kalilinux/packages/fern-wifi-cracker.git"
   version "wifi"
   
 

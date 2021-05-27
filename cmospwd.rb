@@ -4,7 +4,7 @@
 
 class Cmospwd < Formula
   homepage ""
-  head "git://gitlab.com:kalilinux/packages/cmospwd.git"
+  head "https://gitlab.com:kalilinux/packages/cmospwd.git"
   
 
   # depends_on "cmake" => :build

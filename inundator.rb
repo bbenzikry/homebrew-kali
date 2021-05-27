@@ -4,7 +4,7 @@
 
 class Inundator < Formula
   homepage ""
-  head "git://gitlab.com:kalilinux/packages/inundator.git"
+  head "https://gitlab.com:kalilinux/packages/inundator.git"
   
 
   # depends_on "cmake" => :build

@@ -4,7 +4,7 @@
 
 class Pdgmail < Formula
   homepage ""
-  head "git://gitlab.com:kalilinux/packages/pdgmail.git"
+  head "https://gitlab.com:kalilinux/packages/pdgmail.git"
   
 
   # depends_on "cmake" => :build

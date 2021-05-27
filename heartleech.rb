@@ -4,7 +4,7 @@
 
 class Heartleech < Formula
   homepage ""
-  head "git://gitlab.com:kalilinux/packages/heartleech.git"
+  head "https://gitlab.com:kalilinux/packages/heartleech.git"
   
 
   # depends_on "cmake" => :build

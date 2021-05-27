@@ -4,7 +4,7 @@
 
 class PythonShodan < Formula
   homepage ""
-  head "git://gitlab.com:kalilinux/packages/python-shodan.git"
+  head "https://gitlab.com:kalilinux/packages/python-shodan.git"
   version "shodan"
   
 

@@ -4,7 +4,7 @@
 
 class PythonHalberd < Formula
   homepage ""
-  head "git://gitlab.com:kalilinux/packages/python-halberd.git"
+  head "https://gitlab.com:kalilinux/packages/python-halberd.git"
   version "halberd"
   
 

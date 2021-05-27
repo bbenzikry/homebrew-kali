@@ -4,7 +4,7 @@
 
 class AceVoip < Formula
   homepage ""
-  head "git://gitlab.com:kalilinux/packages/ace-voip.git"
+  head "https://gitlab.com/kalilinux/packages/ace-voip.git"
   version "oip"
   
 

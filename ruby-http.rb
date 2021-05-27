@@ -4,7 +4,7 @@
 
 class RubyHttp < Formula
   homepage ""
-  head "git://gitlab.com:kalilinux/packages/ruby-http.git"
+  head "https://gitlab.com:kalilinux/packages/ruby-http.git"
   version "http"
   
 

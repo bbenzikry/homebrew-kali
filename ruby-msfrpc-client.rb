@@ -4,7 +4,7 @@
 
 class RubyMsfrpcClient < Formula
   homepage ""
-  head "git://gitlab.com:kalilinux/packages/ruby-msfrpc-client.git"
+  head "https://gitlab.com:kalilinux/packages/ruby-msfrpc-client.git"
   version "msfrpc"
   
 

@@ -4,7 +4,7 @@
 
 class Fiked < Formula
   homepage ""
-  head "git://gitlab.com:kalilinux/packages/fiked.git"
+  head "https://gitlab.com:kalilinux/packages/fiked.git"
   
 
   # depends_on "cmake" => :build

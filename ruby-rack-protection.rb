@@ -4,7 +4,7 @@
 
 class RubyRackProtection < Formula
   homepage ""
-  head "git://gitlab.com:kalilinux/packages/ruby-rack-protection.git"
+  head "https://gitlab.com:kalilinux/packages/ruby-rack-protection.git"
   version "rack"
   
 

@@ -4,7 +4,7 @@
 
 class RubyLibv8 < Formula
   homepage ""
-  head "git://gitlab.com:kalilinux/packages/ruby-libv8.git"
+  head "https://gitlab.com:kalilinux/packages/ruby-libv8.git"
   version "8"
   
 

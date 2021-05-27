@@ -4,7 +4,7 @@
 
 class EdbDebugger < Formula
   homepage ""
-  head "git://github.com:eteran/edb-debugger.git"
+  head "git://github.com/eteran/edb-debugger.git"
   version "debugger"
   
 

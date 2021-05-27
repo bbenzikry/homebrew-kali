@@ -4,7 +4,7 @@
 
 class FreeipmiTools < Formula
   homepage ""
-  head "git://gitlab.com:kalilinux/packages/freeipmi.git"
+  head "https://gitlab.com:kalilinux/packages/freeipmi.git"
   
 
   # depends_on "cmake" => :build

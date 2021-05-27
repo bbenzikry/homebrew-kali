@@ -4,7 +4,7 @@
 
 class Iw < Formula
   homepage ""
-  head "git://gitlab.com:kalilinux/packages/iw.git"
+  head "https://gitlab.com:kalilinux/packages/iw.git"
   
 
   # depends_on "cmake" => :build

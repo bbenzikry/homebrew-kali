@@ -4,7 +4,7 @@
 
 class FruitywifiModuleEttercap < Formula
   homepage ""
-  head "git://gitlab.com:kalilinux/packages/fruitywifi-module-ettercap.git"
+  head "https://gitlab.com:kalilinux/packages/fruitywifi-module-ettercap.git"
   version "module"
   
 

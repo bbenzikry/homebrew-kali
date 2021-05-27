@@ -4,7 +4,7 @@
 
 class BeefXss < Formula
   homepage ""
-  head "git://gitlab.com:kalilinux/packages/beef-xss.git"
+  head "https://gitlab.com:kalilinux/packages/beef-xss.git"
   version "xss"
   
 

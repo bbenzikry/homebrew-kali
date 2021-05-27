@@ -4,7 +4,7 @@
 
 class Nishang < Formula
   homepage ""
-  head "git://gitlab.com:kalilinux/packages/nishang.git"
+  head "https://gitlab.com:kalilinux/packages/nishang.git"
   
 
   # depends_on "cmake" => :build

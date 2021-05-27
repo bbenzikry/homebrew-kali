@@ -4,7 +4,7 @@
 
 class Responder < Formula
   homepage ""
-  head "git://gitlab.com:kalilinux/packages/responder.git"
+  head "https://gitlab.com:kalilinux/packages/responder.git"
   
 
   # depends_on "cmake" => :build

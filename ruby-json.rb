@@ -4,7 +4,7 @@
 
 class RubyJson < Formula
   homepage ""
-  head "git://gitlab.com:kalilinux/packages/ruby-json.git"
+  head "https://gitlab.com:kalilinux/packages/ruby-json.git"
   version "json"
   
 

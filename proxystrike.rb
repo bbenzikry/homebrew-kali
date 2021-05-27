@@ -4,7 +4,7 @@
 
 class Proxystrike < Formula
   homepage ""
-  head "git://gitlab.com:kalilinux/packages/proxystrike.git"
+  head "https://gitlab.com:kalilinux/packages/proxystrike.git"
   
 
   # depends_on "cmake" => :build

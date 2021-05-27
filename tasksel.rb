@@ -4,7 +4,7 @@
 
 class Tasksel < Formula
   homepage ""
-  head "git://gitlab.com:kalilinux/packages/tasksel.git"
+  head "https://gitlab.com:kalilinux/packages/tasksel.git"
   
 
   # depends_on "cmake" => :build

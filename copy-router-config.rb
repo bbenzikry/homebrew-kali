@@ -4,7 +4,7 @@
 
 class CopyRouterConfig < Formula
   homepage ""
-  head "git://gitlab.com:kalilinux/packages/copy-router-config.git"
+  head "https://gitlab.com:kalilinux/packages/copy-router-config.git"
   version "router"
   
 

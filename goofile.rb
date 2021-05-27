@@ -4,7 +4,7 @@
 
 class Goofile < Formula
   homepage ""
-  head "git://gitlab.com:kalilinux/packages/goofile.git"
+  head "https://gitlab.com:kalilinux/packages/goofile.git"
   
 
   # depends_on "cmake" => :build

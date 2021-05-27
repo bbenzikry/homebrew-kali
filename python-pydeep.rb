@@ -4,7 +4,7 @@
 
 class PythonPydeep < Formula
   homepage ""
-  head "git://gitlab.com:kalilinux/packages/python-pydeep.git"
+  head "https://gitlab.com:kalilinux/packages/python-pydeep.git"
   version "pydeep"
   
 

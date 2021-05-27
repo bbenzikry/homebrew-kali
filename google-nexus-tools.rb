@@ -4,7 +4,7 @@
 
 class GoogleNexusTools < Formula
   homepage ""
-  head "git://gitlab.com:kalilinux/packages/google-nexus-tools.git"
+  head "https://gitlab.com:kalilinux/packages/google-nexus-tools.git"
   version "nexus"
   
 

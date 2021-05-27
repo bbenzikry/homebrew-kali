@@ -4,7 +4,7 @@
 
 class Powersploit < Formula
   homepage ""
-  head "git://gitlab.com:kalilinux/packages/powersploit.git"
+  head "https://gitlab.com:kalilinux/packages/powersploit.git"
   
 
   # depends_on "cmake" => :build

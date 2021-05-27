@@ -4,7 +4,7 @@
 
 class FruitywifiModuleResponder < Formula
   homepage ""
-  head "git://gitlab.com:kalilinux/packages/fruitywifi-module-responder.git"
+  head "https://gitlab.com:kalilinux/packages/fruitywifi-module-responder.git"
   version "module"
   
 

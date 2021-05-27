@@ -4,7 +4,7 @@
 
 class PythonNtlm < Formula
   homepage ""
-  head "git://gitlab.com:kalilinux/packages/python-ntlm.git"
+  head "https://gitlab.com:kalilinux/packages/python-ntlm.git"
   version "ntlm"
   
 

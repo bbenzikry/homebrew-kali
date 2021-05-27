@@ -4,7 +4,7 @@
 
 class Sniffjoke < Formula
   homepage ""
-  head "git://gitlab.com:kalilinux/packages/sniffjoke.git"
+  head "https://gitlab.com:kalilinux/packages/sniffjoke.git"
   
 
   # depends_on "cmake" => :build

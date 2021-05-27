@@ -4,7 +4,7 @@
 
 class Sqlsus < Formula
   homepage ""
-  head "git://gitlab.com:kalilinux/packages/sqlsus.git"
+  head "https://gitlab.com:kalilinux/packages/sqlsus.git"
   
 
   # depends_on "cmake" => :build

@@ -4,7 +4,7 @@
 
 class Eyewitness < Formula
   homepage ""
-  head "git://gitlab.com:kalilinux/packages/eyewitness.git"
+  head "https://gitlab.com:kalilinux/packages/eyewitness.git"
   
 
   # depends_on "cmake" => :build

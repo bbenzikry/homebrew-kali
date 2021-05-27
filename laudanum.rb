@@ -4,7 +4,7 @@
 
 class Laudanum < Formula
   homepage ""
-  head "git://gitlab.com:kalilinux/packages/laudanum.git"
+  head "https://gitlab.com:kalilinux/packages/laudanum.git"
   
 
   # depends_on "cmake" => :build

@@ -4,7 +4,7 @@
 
 class FruitywifiModuleAutossh < Formula
   homepage ""
-  head "git://gitlab.com:kalilinux/packages/fruitywifi-module-autossh.git"
+  head "https://gitlab.com:kalilinux/packages/fruitywifi-module-autossh.git"
   version "module"
   
 

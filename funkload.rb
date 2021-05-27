@@ -4,7 +4,7 @@
 
 class Funkload < Formula
   homepage ""
-  head "git://gitlab.com:kalilinux/packages/funkload.git"
+  head "https://gitlab.com:kalilinux/packages/funkload.git"
   
 
   # depends_on "cmake" => :build

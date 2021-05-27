@@ -4,7 +4,7 @@
 
 class NetRetriever < Formula
   homepage ""
-  head "git://gitlab.com:kalilinux/packages/net-retriever.git"
+  head "https://gitlab.com:kalilinux/packages/net-retriever.git"
   version "retriever"
   
 

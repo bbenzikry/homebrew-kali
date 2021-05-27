@@ -4,7 +4,7 @@
 
 class Rtpmixsound < Formula
   homepage ""
-  head "git://gitlab.com:kalilinux/packages/rtpmixsound.git"
+  head "https://gitlab.com:kalilinux/packages/rtpmixsound.git"
   
 
   # depends_on "cmake" => :build

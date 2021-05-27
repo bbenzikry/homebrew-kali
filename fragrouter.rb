@@ -4,7 +4,7 @@
 
 class Fragrouter < Formula
   homepage ""
-  head "git://gitlab.com:kalilinux/packages/fragrouter.git"
+  head "https://gitlab.com:kalilinux/packages/fragrouter.git"
   
 
   # depends_on "cmake" => :build

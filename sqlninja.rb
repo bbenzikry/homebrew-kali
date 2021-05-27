@@ -4,7 +4,7 @@
 
 class Sqlninja < Formula
   homepage ""
-  head "git://gitlab.com:kalilinux/packages/sqlninja.git"
+  head "https://gitlab.com:kalilinux/packages/sqlninja.git"
   
 
   # depends_on "cmake" => :build

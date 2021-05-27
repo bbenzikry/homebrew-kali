@@ -4,7 +4,7 @@
 
 class RubyDmMigrations < Formula
   homepage ""
-  head "git://gitlab.com:kalilinux/packages/ruby-dm-migrations.git"
+  head "https://gitlab.com:kalilinux/packages/ruby-dm-migrations.git"
   version "dm"
   
 

@@ -4,7 +4,7 @@
 
 class Webshag < Formula
   homepage ""
-  head "git://gitlab.com:kalilinux/packages/webshag.git"
+  head "https://gitlab.com:kalilinux/packages/webshag.git"
   
 
   # depends_on "cmake" => :build

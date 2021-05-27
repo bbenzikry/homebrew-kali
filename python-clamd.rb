@@ -4,7 +4,7 @@
 
 class PythonClamd < Formula
   homepage ""
-  head "git://gitlab.com:kalilinux/packages/python-clamd.git"
+  head "https://gitlab.com:kalilinux/packages/python-clamd.git"
   version "clamd"
   
 

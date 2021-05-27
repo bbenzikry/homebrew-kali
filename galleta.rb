@@ -4,7 +4,7 @@
 
 class Galleta < Formula
   homepage ""
-  head "git://gitlab.com:kalilinux/packages/galleta.git"
+  head "https://gitlab.com:kalilinux/packages/galleta.git"
   
 
   # depends_on "cmake" => :build

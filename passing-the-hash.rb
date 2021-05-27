@@ -4,7 +4,7 @@
 
 class PassingTheHash < Formula
   homepage ""
-  head "git://gitlab.com:kalilinux/packages/passing-the-hash.git"
+  head "https://gitlab.com:kalilinux/packages/passing-the-hash.git"
   version "the"
   
 

@@ -4,7 +4,7 @@
 
 class Truecrypt < Formula
   homepage ""
-  head "git://gitlab.com:kalilinux/packages/truecrypt.git"
+  head "https://gitlab.com:kalilinux/packages/truecrypt.git"
   
 
   # depends_on "cmake" => :build

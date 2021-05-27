@@ -4,7 +4,7 @@
 
 class Wifite < Formula
   homepage ""
-  head "git://gitlab.com:kalilinux/packages/wifite.git"
+  head "https://gitlab.com:kalilinux/packages/wifite.git"
   
 
   # depends_on "cmake" => :build

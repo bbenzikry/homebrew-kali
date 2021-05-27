@@ -4,7 +4,7 @@
 
 class Florence < Formula
   homepage ""
-  head "git://gitlab.com:kalilinux/packages/florence.git"
+  head "https://gitlab.com:kalilinux/packages/florence.git"
   
 
   # depends_on "cmake" => :build

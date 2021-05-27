@@ -4,7 +4,7 @@
 
 class FruitywifiModuleMdk3 < Formula
   homepage ""
-  head "git://gitlab.com:kalilinux/packages/fruitywifi-module-mdk3.git"
+  head "https://gitlab.com:kalilinux/packages/fruitywifi-module-mdk3.git"
   version "3"
   
 

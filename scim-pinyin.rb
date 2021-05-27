@@ -4,7 +4,7 @@
 
 class ScimPinyin < Formula
   homepage ""
-  head "git://gitlab.com:kalilinux/packages/scim-pinyin.git"
+  head "https://gitlab.com:kalilinux/packages/scim-pinyin.git"
   version "pinyin"
   
 

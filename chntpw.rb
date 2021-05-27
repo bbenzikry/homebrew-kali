@@ -4,7 +4,7 @@
 
 class Chntpw < Formula
   homepage ""
-  head "git://gitlab.com:kalilinux/packages/chntpw.git"
+  head "https://gitlab.com:kalilinux/packages/chntpw.git"
   
 
   # depends_on "cmake" => :build

@@ -4,7 +4,7 @@
 
 class PartmanCrypto < Formula
   homepage ""
-  head "git://gitlab.com:kalilinux/packages/partman-crypto.git"
+  head "https://gitlab.com:kalilinux/packages/partman-crypto.git"
   version "crypto"
   
 

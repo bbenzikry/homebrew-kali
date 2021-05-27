@@ -4,7 +4,7 @@
 
 class LibcryptMcryptPerl < Formula
   homepage ""
-  head "git://gitlab.com:kalilinux/packages/libcrypt-mcrypt-perl.git"
+  head "https://gitlab.com:kalilinux/packages/libcrypt-mcrypt-perl.git"
   version "mcrypt"
   
 

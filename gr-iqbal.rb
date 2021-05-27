@@ -4,7 +4,7 @@
 
 class GrIqbal < Formula
   homepage ""
-  head "git://gitlab.com:kalilinux/packages/gr-iqbal.git"
+  head "https://gitlab.com:kalilinux/packages/gr-iqbal.git"
   version "iqbal"
   
 

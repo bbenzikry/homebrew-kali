@@ -4,7 +4,7 @@
 
 class Phrasendrescher < Formula
   homepage ""
-  head "git://gitlab.com:kalilinux/packages/phrasendrescher.git"
+  head "https://gitlab.com:kalilinux/packages/phrasendrescher.git"
   
 
   # depends_on "cmake" => :build

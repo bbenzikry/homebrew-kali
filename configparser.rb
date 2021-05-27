@@ -4,7 +4,7 @@
 
 class Configparser < Formula
   homepage ""
-  head "git://gitlab.com:kalilinux/packages/configparser.git"
+  head "https://gitlab.com:kalilinux/packages/configparser.git"
   
 
   # depends_on "cmake" => :build

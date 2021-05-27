@@ -4,7 +4,7 @@
 
 class MultimonNg < Formula
   homepage ""
-  head "git://gitlab.com:kalilinux/packages/multimon-ng.git"
+  head "https://gitlab.com:kalilinux/packages/multimon-ng.git"
   version "ng"
   
 

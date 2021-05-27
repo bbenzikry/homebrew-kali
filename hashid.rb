@@ -4,7 +4,7 @@
 
 class Hashid < Formula
   homepage ""
-  head "git://gitlab.com:kalilinux/packages/hashid.git"
+  head "https://gitlab.com:kalilinux/packages/hashid.git"
   
 
   # depends_on "cmake" => :build

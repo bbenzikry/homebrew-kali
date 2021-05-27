@@ -4,7 +4,7 @@
 
 class PerlCiscoCopyconfig < Formula
   homepage ""
-  head "git://gitlab.com:kalilinux/packages/perl-cisco-copyconfig.git"
+  head "https://gitlab.com:kalilinux/packages/perl-cisco-copyconfig.git"
   version "cisco"
   
 

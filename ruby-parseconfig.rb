@@ -4,7 +4,7 @@
 
 class RubyParseconfig < Formula
   homepage ""
-  head "git://gitlab.com:kalilinux/packages/ruby-parseconfig.git"
+  head "https://gitlab.com:kalilinux/packages/ruby-parseconfig.git"
   version "parseconfig"
   
 

@@ -4,7 +4,7 @@
 
 class Wmi < Formula
   homepage ""
-  head "git://gitlab.com:kalilinux/packages/wmi.git"
+  head "https://gitlab.com:kalilinux/packages/wmi.git"
   
 
   # depends_on "cmake" => :build

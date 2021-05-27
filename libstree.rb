@@ -4,7 +4,7 @@
 
 class Libstree < Formula
   homepage ""
-  head "git://gitlab.com:kalilinux/packages/libstree.git"
+  head "https://gitlab.com:kalilinux/packages/libstree.git"
   
 
   # depends_on "cmake" => :build

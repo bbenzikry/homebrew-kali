@@ -4,7 +4,7 @@
 
 class Pdfminer < Formula
   homepage ""
-  head "git://gitlab.com:kalilinux/packages/pdfminer.git"
+  head "https://gitlab.com:kalilinux/packages/pdfminer.git"
   
 
   # depends_on "cmake" => :build

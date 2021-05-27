@@ -4,7 +4,7 @@
 
 class Bluelog < Formula
   homepage ""
-  head "git://gitlab.com:kalilinux/packages/bluelog.git"
+  head "https://gitlab.com:kalilinux/packages/bluelog.git"
   
 
   # depends_on "cmake" => :build

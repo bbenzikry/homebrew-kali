@@ -4,7 +4,7 @@
 
 class Ridenum < Formula
   homepage ""
-  head "git://gitlab.com:kalilinux/packages/ridenum.git"
+  head "https://gitlab.com:kalilinux/packages/ridenum.git"
   
 
   # depends_on "cmake" => :build

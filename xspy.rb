@@ -4,7 +4,7 @@
 
 class Xspy < Formula
   homepage ""
-  head "git://gitlab.com:kalilinux/packages/xspy.git"
+  head "https://gitlab.com:kalilinux/packages/xspy.git"
   
 
   # depends_on "cmake" => :build

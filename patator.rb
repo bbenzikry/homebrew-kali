@@ -4,7 +4,7 @@
 
 class Patator < Formula
   homepage ""
-  head "git://gitlab.com:kalilinux/packages/patator.git"
+  head "https://gitlab.com:kalilinux/packages/patator.git"
   
 
   # depends_on "cmake" => :build

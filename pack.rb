@@ -4,7 +4,7 @@
 
 class Pack < Formula
   homepage ""
-  head "git://gitlab.com:kalilinux/packages/pack.git"
+  head "https://gitlab.com:kalilinux/packages/pack.git"
   
 
   # depends_on "cmake" => :build

@@ -4,7 +4,7 @@
 
 class Wapiti < Formula
   homepage ""
-  head "git://gitlab.com:kalilinux/packages/wapiti.git"
+  head "https://gitlab.com:kalilinux/packages/wapiti.git"
   
 
   # depends_on "cmake" => :build

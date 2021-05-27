@@ -4,7 +4,7 @@
 
 class RubyTwitter < Formula
   homepage ""
-  head "git://gitlab.com:kalilinux/packages/ruby-twitter.git"
+  head "https://gitlab.com:kalilinux/packages/ruby-twitter.git"
   version "twitter"
   
 

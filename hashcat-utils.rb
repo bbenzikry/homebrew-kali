@@ -4,7 +4,7 @@
 
 class HashcatUtils < Formula
   homepage ""
-  head "git://gitlab.com:kalilinux/packages/hashcat-utils.git"
+  head "https://gitlab.com:kalilinux/packages/hashcat-utils.git"
   version "utils"
   
 

@@ -4,7 +4,7 @@
 
 class UnixPrivescCheck < Formula
   homepage ""
-  head "git://gitlab.com:kalilinux/packages/unix-privesc-check.git"
+  head "https://gitlab.com:kalilinux/packages/unix-privesc-check.git"
   version "privesc"
   
 

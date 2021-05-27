@@ -4,7 +4,7 @@
 
 class GrAirModes < Formula
   homepage ""
-  head "git://gitlab.com:kalilinux/packages/gr-air-modes.git"
+  head "https://gitlab.com:kalilinux/packages/gr-air-modes.git"
   version "air"
   
 

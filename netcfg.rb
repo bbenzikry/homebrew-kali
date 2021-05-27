@@ -4,7 +4,7 @@
 
 class Netcfg < Formula
   homepage ""
-  head "git://gitlab.com:kalilinux/packages/netcfg.git"
+  head "https://gitlab.com:kalilinux/packages/netcfg.git"
   
 
   # depends_on "cmake" => :build

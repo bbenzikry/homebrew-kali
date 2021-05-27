@@ -4,7 +4,7 @@
 
 class Proxychains < Formula
   homepage ""
-  head "git://gitlab.com:kalilinux/packages/proxychains.git"
+  head "https://gitlab.com:kalilinux/packages/proxychains.git"
   
 
   # depends_on "cmake" => :build

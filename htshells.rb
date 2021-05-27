@@ -4,7 +4,7 @@
 
 class Htshells < Formula
   homepage ""
-  head "git://gitlab.com:kalilinux/packages/htshells.git"
+  head "https://gitlab.com:kalilinux/packages/htshells.git"
   
 
   # depends_on "cmake" => :build

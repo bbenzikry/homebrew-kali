@@ -4,7 +4,7 @@
 
 class HttpParser < Formula
   homepage ""
-  head "git://gitlab.com:kalilinux/packages/http-parser.git"
+  head "https://gitlab.com:kalilinux/packages/http-parser.git"
   version "parser"
   
 

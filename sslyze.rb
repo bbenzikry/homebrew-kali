@@ -4,7 +4,7 @@
 
 class Sslyze < Formula
   homepage ""
-  head "git://gitlab.com:kalilinux/packages/sslyze.git"
+  head "https://gitlab.com:kalilinux/packages/sslyze.git"
   
 
   # depends_on "cmake" => :build

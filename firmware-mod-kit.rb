@@ -4,7 +4,7 @@
 
 class FirmwareModKit < Formula
   homepage ""
-  head "git://gitlab.com:kalilinux/packages/firmware-mod-kit.git"
+  head "https://gitlab.com:kalilinux/packages/firmware-mod-kit.git"
   version "mod"
   
 

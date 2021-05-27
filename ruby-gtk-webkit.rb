@@ -4,7 +4,7 @@
 
 class RubyGtkWebkit < Formula
   homepage ""
-  head "git://gitlab.com:kalilinux/packages/ruby-gtk-webkit.git"
+  head "https://gitlab.com:kalilinux/packages/ruby-gtk-webkit.git"
   version "gtk"
   
 

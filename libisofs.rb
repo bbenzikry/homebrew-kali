@@ -4,7 +4,7 @@
 
 class Libisofs < Formula
   homepage ""
-  head "git://gitlab.com:kalilinux/packages/libisofs.git"
+  head "https://gitlab.com:kalilinux/packages/libisofs.git"
   
 
   # depends_on "cmake" => :build

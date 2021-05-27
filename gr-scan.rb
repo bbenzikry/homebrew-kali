@@ -4,7 +4,7 @@
 
 class GrScan < Formula
   homepage ""
-  head "git://gitlab.com:kalilinux/packages/gr-scan.git"
+  head "https://gitlab.com:kalilinux/packages/gr-scan.git"
   version "scan"
   
 

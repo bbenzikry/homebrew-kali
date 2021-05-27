@@ -4,7 +4,7 @@
 
 class RubySinatra < Formula
   homepage ""
-  head "git://gitlab.com:kalilinux/packages/ruby-sinatra.git"
+  head "https://gitlab.com:kalilinux/packages/ruby-sinatra.git"
   version "sinatra"
   
 

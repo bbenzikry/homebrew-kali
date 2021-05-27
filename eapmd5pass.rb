@@ -4,7 +4,7 @@
 
 class Eapmd5pass < Formula
   homepage ""
-  head "git://gitlab.com:kalilinux/packages/eapmd5pass.git"
+  head "https://gitlab.com:kalilinux/packages/eapmd5pass.git"
   
 
   # depends_on "cmake" => :build

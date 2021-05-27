@@ -4,7 +4,7 @@
 
 class PythonGuessLanguage < Formula
   homepage ""
-  head "git://gitlab.com:kalilinux/packages/python-guess-language.git"
+  head "https://gitlab.com:kalilinux/packages/python-guess-language.git"
   version "guess"
   
 

@@ -4,7 +4,7 @@
 
 class CiscoTorch < Formula
   homepage ""
-  head "git://gitlab.com:kalilinux/packages/cisco-torch.git"
+  head "https://gitlab.com:kalilinux/packages/cisco-torch.git"
   version "torch"
   
 

@@ -4,7 +4,7 @@
 
 class WifiHoney < Formula
   homepage ""
-  head "git://gitlab.com:kalilinux/packages/wifi-honey.git"
+  head "https://gitlab.com:kalilinux/packages/wifi-honey.git"
   version "honey"
   
 

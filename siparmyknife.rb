@@ -4,7 +4,7 @@
 
 class Siparmyknife < Formula
   homepage ""
-  head "git://gitlab.com:kalilinux/packages/siparmyknife.git"
+  head "https://gitlab.com:kalilinux/packages/siparmyknife.git"
   
 
   # depends_on "cmake" => :build

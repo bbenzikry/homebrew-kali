@@ -4,7 +4,7 @@
 
 class Inviteflood < Formula
   homepage ""
-  head "git://gitlab.com:kalilinux/packages/inviteflood.git"
+  head "https://gitlab.com:kalilinux/packages/inviteflood.git"
   
 
   # depends_on "cmake" => :build

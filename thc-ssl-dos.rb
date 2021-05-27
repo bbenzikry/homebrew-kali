@@ -4,7 +4,7 @@
 
 class ThcSslDos < Formula
   homepage ""
-  head "git://gitlab.com:kalilinux/packages/thc-ssl-dos.git"
+  head "https://gitlab.com:kalilinux/packages/thc-ssl-dos.git"
   version "ssl"
   
 

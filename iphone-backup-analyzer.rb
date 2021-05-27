@@ -4,7 +4,7 @@
 
 class IphoneBackupAnalyzer < Formula
   homepage ""
-  head "git://gitlab.com:kalilinux/packages/iphone-backup-analyzer.git"
+  head "https://gitlab.com:kalilinux/packages/iphone-backup-analyzer.git"
   version "backup"
   
 

@@ -4,7 +4,7 @@
 
 class PythonPhply < Formula
   homepage ""
-  head "git://gitlab.com:kalilinux/packages/python-phply.git"
+  head "https://gitlab.com:kalilinux/packages/python-phply.git"
   version "phply"
   
 

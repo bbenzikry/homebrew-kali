@@ -4,7 +4,7 @@
 
 class Sslsplit < Formula
   homepage ""
-  head "git://gitlab.com:kalilinux/packages/sslsplit.git"
+  head "https://gitlab.com:kalilinux/packages/sslsplit.git"
   
 
   # depends_on "cmake" => :build

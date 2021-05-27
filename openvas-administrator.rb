@@ -4,7 +4,7 @@
 
 class OpenvasAdministrator < Formula
   homepage ""
-  head "git://gitlab.com:kalilinux/packages/openvas-administrator.git"
+  head "https://gitlab.com:kalilinux/packages/openvas-administrator.git"
   version "administrator"
   
 

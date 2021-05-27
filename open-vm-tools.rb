@@ -4,7 +4,7 @@
 
 class OpenVmTools < Formula
   homepage ""
-  head "git://gitlab.com:kalilinux/packages/open-vm-tools.git"
+  head "https://gitlab.com:kalilinux/packages/open-vm-tools.git"
   version "m"
   
 

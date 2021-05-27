@@ -4,7 +4,7 @@
 
 class RubyExecjs < Formula
   homepage ""
-  head "git://gitlab.com:kalilinux/packages/ruby-execjs.git"
+  head "https://gitlab.com:kalilinux/packages/ruby-execjs.git"
   version "execjs"
   
 

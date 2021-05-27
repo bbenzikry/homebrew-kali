@@ -4,7 +4,7 @@
 
 class FruitywifiModuleSquid3 < Formula
   homepage ""
-  head "git://gitlab.com:kalilinux/packages/fruitywifi-module-squid3.git"
+  head "https://gitlab.com:kalilinux/packages/fruitywifi-module-squid3.git"
   version "3"
   
 

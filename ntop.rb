@@ -4,7 +4,7 @@
 
 class Ntop < Formula
   homepage ""
-  head "git://gitlab.com:kalilinux/packages/ntop.git"
+  head "https://gitlab.com:kalilinux/packages/ntop.git"
   
 
   # depends_on "cmake" => :build

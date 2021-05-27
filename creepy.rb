@@ -4,7 +4,7 @@
 
 class Creepy < Formula
   homepage ""
-  head "git://gitlab.com:kalilinux/packages/creepy.git"
+  head "https://gitlab.com:kalilinux/packages/creepy.git"
   
 
   # depends_on "cmake" => :build

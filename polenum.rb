@@ -4,7 +4,7 @@
 
 class Polenum < Formula
   homepage ""
-  head "git://gitlab.com:kalilinux/packages/polenum.git"
+  head "https://gitlab.com:kalilinux/packages/polenum.git"
   
 
   # depends_on "cmake" => :build

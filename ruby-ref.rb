@@ -4,7 +4,7 @@
 
 class RubyRef < Formula
   homepage ""
-  head "git://gitlab.com:kalilinux/packages/ruby-ref.git"
+  head "https://gitlab.com:kalilinux/packages/ruby-ref.git"
   version "ref"
   
 

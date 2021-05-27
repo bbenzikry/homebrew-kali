@@ -4,7 +4,7 @@
 
 class U3Pwn < Formula
   homepage ""
-  head "git://gitlab.com:kalilinux/packages/u3-pwn.git"
+  head "https://gitlab.com:kalilinux/packages/u3-pwn.git"
   version "pwn"
   
 

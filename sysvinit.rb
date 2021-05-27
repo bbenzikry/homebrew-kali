@@ -4,7 +4,7 @@
 
 class Sysvinit < Formula
   homepage ""
-  head "git://gitlab.com:kalilinux/packages/sysvinit.git"
+  head "https://gitlab.com:kalilinux/packages/sysvinit.git"
   
 
   # depends_on "cmake" => :build

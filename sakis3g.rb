@@ -4,7 +4,7 @@
 
 class Sakis3g < Formula
   homepage ""
-  head "git://gitlab.com:kalilinux/packages/sakis3g.git"
+  head "https://gitlab.com:kalilinux/packages/sakis3g.git"
   
 
   # depends_on "cmake" => :build

@@ -4,7 +4,7 @@
 
 class SmtpUserEnum < Formula
   homepage ""
-  head "git://gitlab.com:kalilinux/packages/smtp-user-enum.git"
+  head "https://gitlab.com:kalilinux/packages/smtp-user-enum.git"
   version "user"
   
 

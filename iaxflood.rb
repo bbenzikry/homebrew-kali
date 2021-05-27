@@ -4,7 +4,7 @@
 
 class Iaxflood < Formula
   homepage ""
-  head "git://gitlab.com:kalilinux/packages/iaxflood.git"
+  head "https://gitlab.com:kalilinux/packages/iaxflood.git"
   
 
   # depends_on "cmake" => :build

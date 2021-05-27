@@ -4,7 +4,7 @@
 
 class Johnny < Formula
   homepage ""
-  head "git://gitlab.com:kalilinux/packages/johnny.git"
+  head "https://gitlab.com:kalilinux/packages/johnny.git"
   
 
   # depends_on "cmake" => :build

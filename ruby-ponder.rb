@@ -4,7 +4,7 @@
 
 class RubyPonder < Formula
   homepage ""
-  head "git://gitlab.com:kalilinux/packages/ruby-ponder.git"
+  head "https://gitlab.com:kalilinux/packages/ruby-ponder.git"
   version "ponder"
   
 

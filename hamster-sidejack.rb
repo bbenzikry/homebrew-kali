@@ -4,7 +4,7 @@
 
 class HamsterSidejack < Formula
   homepage ""
-  head "git://gitlab.com:kalilinux/packages/hamster-sidejack.git"
+  head "https://gitlab.com:kalilinux/packages/hamster-sidejack.git"
   version "sidejack"
   
 

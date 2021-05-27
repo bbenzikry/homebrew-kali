@@ -4,7 +4,7 @@
 
 class PythonCffi < Formula
   homepage ""
-  head "git://gitlab.com:kalilinux/packages/python-cffi.git"
+  head "https://gitlab.com:kalilinux/packages/python-cffi.git"
   version "cffi"
   
 

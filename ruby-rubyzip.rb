@@ -4,7 +4,7 @@
 
 class RubyRubyzip < Formula
   homepage ""
-  head "git://gitlab.com:kalilinux/packages/ruby-rubyzip.git"
+  head "https://gitlab.com:kalilinux/packages/ruby-rubyzip.git"
   version "rubyzip"
   
 

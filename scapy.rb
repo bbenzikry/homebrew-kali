@@ -4,7 +4,7 @@
 
 class Scapy < Formula
   homepage ""
-  head "git://gitlab.com:kalilinux/packages/scapy.git"
+  head "https://gitlab.com:kalilinux/packages/scapy.git"
   
 
   # depends_on "cmake" => :build

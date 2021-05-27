@@ -4,7 +4,7 @@
 
 class FreeradiusWpe < Formula
   homepage ""
-  head "git://gitlab.com:kalilinux/packages/freeradius-wpe.git"
+  head "https://gitlab.com:kalilinux/packages/freeradius-wpe.git"
   version "wpe"
   
 

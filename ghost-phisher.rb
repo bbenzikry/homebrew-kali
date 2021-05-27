@@ -4,7 +4,7 @@
 
 class GhostPhisher < Formula
   homepage ""
-  head "git://gitlab.com:kalilinux/packages/ghost-phisher.git"
+  head "https://gitlab.com:kalilinux/packages/ghost-phisher.git"
   version "phisher"
   
 

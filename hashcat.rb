@@ -4,7 +4,7 @@
 
 class Hashcat < Formula
   homepage ""
-  head "git://gitlab.com:kalilinux/packages/hashcat.git"
+  head "https://gitlab.com:kalilinux/packages/hashcat.git"
   
 
   # depends_on "cmake" => :build

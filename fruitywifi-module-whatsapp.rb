@@ -4,7 +4,7 @@
 
 class FruitywifiModuleWhatsapp < Formula
   homepage ""
-  head "git://gitlab.com:kalilinux/packages/fruitywifi-module-whatsapp.git"
+  head "https://gitlab.com:kalilinux/packages/fruitywifi-module-whatsapp.git"
   version "module"
   
 

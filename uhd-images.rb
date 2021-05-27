@@ -4,7 +4,7 @@
 
 class UhdImages < Formula
   homepage ""
-  head "git://gitlab.com:kalilinux/packages/uhd-images.git"
+  head "https://gitlab.com:kalilinux/packages/uhd-images.git"
   version "images"
   
 

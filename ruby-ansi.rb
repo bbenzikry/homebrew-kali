@@ -4,7 +4,7 @@
 
 class RubyAnsi < Formula
   homepage ""
-  head "git://gitlab.com:kalilinux/packages/ruby-ansi.git"
+  head "https://gitlab.com:kalilinux/packages/ruby-ansi.git"
   version "ansi"
   
 

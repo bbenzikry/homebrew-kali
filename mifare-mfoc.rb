@@ -4,7 +4,7 @@
 
 class MifareMfoc < Formula
   homepage ""
-  head "git://gitlab.com:kalilinux/packages/mfoc.git"
+  head "https://gitlab.com:kalilinux/packages/mfoc.git"
   
 
   # depends_on "cmake" => :build

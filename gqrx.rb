@@ -4,7 +4,7 @@
 
 class Gqrx < Formula
   homepage ""
-  head "git://gitlab.com:kalilinux/packages/gqrx.git"
+  head "https://gitlab.com:kalilinux/packages/gqrx.git"
   
 
   # depends_on "cmake" => :build

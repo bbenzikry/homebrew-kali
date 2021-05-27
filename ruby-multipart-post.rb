@@ -4,7 +4,7 @@
 
 class RubyMultipartPost < Formula
   homepage ""
-  head "git://gitlab.com:kalilinux/packages/ruby-multipart-post.git"
+  head "https://gitlab.com:kalilinux/packages/ruby-multipart-post.git"
   version "multipart"
   
 

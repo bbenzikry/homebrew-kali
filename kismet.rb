@@ -4,7 +4,7 @@
 
 class Kismet < Formula
   homepage ""
-  head "git://gitlab.com:kalilinux/packages/kismet.git"
+  head "https://gitlab.com:kalilinux/packages/kismet.git"
   
 
   # depends_on "cmake" => :build

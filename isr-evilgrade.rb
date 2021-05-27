@@ -4,7 +4,7 @@
 
 class IsrEvilgrade < Formula
   homepage ""
-  head "git://gitlab.com:kalilinux/packages/isr-evilgrade.git"
+  head "https://gitlab.com:kalilinux/packages/isr-evilgrade.git"
   version "evilgrade"
   
 

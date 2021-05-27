@@ -4,7 +4,7 @@
 
 class Padbuster < Formula
   homepage ""
-  head "git://gitlab.com:kalilinux/packages/padbuster.git"
+  head "https://gitlab.com:kalilinux/packages/padbuster.git"
   
 
   # depends_on "cmake" => :build

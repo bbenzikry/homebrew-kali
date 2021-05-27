@@ -4,7 +4,7 @@
 
 class Webscarab < Formula
   homepage ""
-  head "git://gitlab.com:kalilinux/packages/webscarab.git"
+  head "https://gitlab.com:kalilinux/packages/webscarab.git"
   
 
   # depends_on "cmake" => :build

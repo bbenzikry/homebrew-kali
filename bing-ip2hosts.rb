@@ -4,7 +4,7 @@
 
 class BingIp2hosts < Formula
   homepage ""
-  head "git://gitlab.com:kalilinux/packages/bing-ip2hosts.git"
+  head "https://gitlab.com:kalilinux/packages/bing-ip2hosts.git"
   version "ip2hosts"
   
 

@@ -4,7 +4,7 @@
 
 class Maltego < Formula
   homepage ""
-  head "git://gitlab.com:kalilinux/packages/maltego.git"
+  head "https://gitlab.com:kalilinux/packages/maltego.git"
   
 
   # depends_on "cmake" => :build

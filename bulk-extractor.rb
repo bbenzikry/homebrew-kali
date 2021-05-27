@@ -4,7 +4,7 @@
 
 class BulkExtractor < Formula
   homepage ""
-  head "git://gitlab.com:kalilinux/packages/bulk-extractor.git"
+  head "https://gitlab.com:kalilinux/packages/bulk-extractor.git"
   version "extractor"
   
 
