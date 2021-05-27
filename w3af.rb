@@ -4,7 +4,7 @@
 
 class W3af < Formula
   homepage ""
-  head "git://git.kali.org/packages/w3af.git"
+  head "git@gitlab.com:kalilinux/packages/w3af.git"
   
 
   # depends_on "cmake" => :build

@@ -4,7 +4,7 @@
 
 class Uhd < Formula
   homepage ""
-  head "git://git.kali.org/packages/uhd.git"
+  head "git@gitlab.com:kalilinux/packages/uhd.git"
   
 
   # depends_on "cmake" => :build

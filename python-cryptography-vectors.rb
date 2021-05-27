@@ -4,7 +4,7 @@
 
 class PythonCryptographyVectors < Formula
   homepage ""
-  head "git://git.kali.org/packages/python-cryptography-vectors.git"
+  head "git@gitlab.com:kalilinux/packages/python-cryptography-vectors.git"
   version "cryptography"
   
 

@@ -4,7 +4,7 @@
 
 class Dmitry < Formula
   homepage ""
-  head "git://git.kali.org/packages/dmitry.git"
+  head "git@gitlab.com:kalilinux/packages/dmitry.git"
   
 
   # depends_on "cmake" => :build

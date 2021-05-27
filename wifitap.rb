@@ -4,7 +4,7 @@
 
 class Wifitap < Formula
   homepage ""
-  head "git://git.kali.org/packages/wifitap.git"
+  head "git@gitlab.com:kalilinux/packages/wifitap.git"
   
 
   # depends_on "cmake" => :build

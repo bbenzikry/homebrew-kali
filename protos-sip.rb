@@ -4,7 +4,7 @@
 
 class ProtosSip < Formula
   homepage ""
-  head "git://git.kali.org/packages/protos-sip.git"
+  head "git@gitlab.com:kalilinux/packages/protos-sip.git"
   version "sip"
   
 

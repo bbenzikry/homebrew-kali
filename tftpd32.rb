@@ -4,7 +4,7 @@
 
 class Tftpd32 < Formula
   homepage ""
-  head "git://git.kali.org/packages/tftpd32.git"
+  head "git@gitlab.com:kalilinux/packages/tftpd32.git"
   version "32"
   
 

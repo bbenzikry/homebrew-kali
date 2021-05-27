@@ -4,7 +4,7 @@
 
 class Powerfuzzer < Formula
   homepage ""
-  head "git://git.kali.org/packages/powerfuzzer.git"
+  head "git@gitlab.com:kalilinux/packages/powerfuzzer.git"
   
 
   # depends_on "cmake" => :build

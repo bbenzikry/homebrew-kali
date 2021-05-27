@@ -4,7 +4,7 @@
 
 class Openvas < Formula
   homepage ""
-  head "git://git.kali.org/packages/openvas.git"
+  head "git@gitlab.com:kalilinux/packages/openvas.git"
   
 
   # depends_on "cmake" => :build

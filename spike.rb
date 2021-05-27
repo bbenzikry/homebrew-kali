@@ -4,7 +4,7 @@
 
 class Spike < Formula
   homepage ""
-  head "git://git.kali.org/packages/spike.git"
+  head "git@gitlab.com:kalilinux/packages/spike.git"
   
 
   # depends_on "cmake" => :build

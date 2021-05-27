@@ -4,7 +4,7 @@
 
 class PythonBloomfiltermmap < Formula
   homepage ""
-  head "git://git.kali.org/packages/python-bloomfiltermmap.git"
+  head "git@gitlab.com:kalilinux/packages/python-bloomfiltermmap.git"
   version "bloomfiltermmap"
   
 

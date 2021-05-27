@@ -4,7 +4,7 @@
 
 class RubyTilt < Formula
   homepage ""
-  head "git://git.kali.org/packages/ruby-tilt.git"
+  head "git@gitlab.com:kalilinux/packages/ruby-tilt.git"
   version "tilt"
   
 

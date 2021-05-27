@@ -4,7 +4,7 @@
 
 class Hexorbase < Formula
   homepage ""
-  head "git://git.kali.org/packages/hexorbase.git"
+  head "git@gitlab.com:kalilinux/packages/hexorbase.git"
   
 
   # depends_on "cmake" => :build

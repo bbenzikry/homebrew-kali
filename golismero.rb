@@ -4,7 +4,7 @@
 
 class Golismero < Formula
   homepage ""
-  head "git://git.kali.org/packages/golismero.git"
+  head "git@gitlab.com:kalilinux/packages/golismero.git"
   
 
   # depends_on "cmake" => :build

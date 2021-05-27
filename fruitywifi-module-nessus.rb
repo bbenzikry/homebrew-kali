@@ -4,7 +4,7 @@
 
 class FruitywifiModuleNessus < Formula
   homepage ""
-  head "git://git.kali.org/packages/fruitywifi-module-nessus.git"
+  head "git@gitlab.com:kalilinux/packages/fruitywifi-module-nessus.git"
   version "module"
   
 

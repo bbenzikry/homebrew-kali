@@ -4,7 +4,7 @@
 
 class RubyDmCore < Formula
   homepage ""
-  head "git://git.kali.org/packages/ruby-dm-core.git"
+  head "git@gitlab.com:kalilinux/packages/ruby-dm-core.git"
   version "dm"
   
 

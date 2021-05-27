@@ -4,7 +4,7 @@
 
 class Pdfid < Formula
   homepage ""
-  head "git://git.kali.org/packages/pdfid.git"
+  head "git@gitlab.com:kalilinux/packages/pdfid.git"
   
 
   # depends_on "cmake" => :build

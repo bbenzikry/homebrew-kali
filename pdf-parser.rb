@@ -4,7 +4,7 @@
 
 class PdfParser < Formula
   homepage ""
-  head "git://git.kali.org/packages/pdf-parser.git"
+  head "git@gitlab.com:kalilinux/packages/pdf-parser.git"
   version "parser"
   
 

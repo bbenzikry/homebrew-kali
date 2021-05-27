@@ -4,7 +4,7 @@
 
 class Rainbowcrack < Formula
   homepage ""
-  head "git://git.kali.org/packages/rainbowcrack.git"
+  head "git@gitlab.com:kalilinux/packages/rainbowcrack.git"
   
 
   # depends_on "cmake" => :build

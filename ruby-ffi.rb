@@ -4,7 +4,7 @@
 
 class RubyFfi < Formula
   homepage ""
-  head "git://git.kali.org/packages/ruby-ffi.git"
+  head "git@gitlab.com:kalilinux/packages/ruby-ffi.git"
   version "ffi"
   
 

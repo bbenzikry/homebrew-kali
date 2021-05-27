@@ -4,7 +4,7 @@
 
 class FruitywifiModuleSupplicant < Formula
   homepage ""
-  head "git://git.kali.org/packages/fruitywifi-module-supplicant.git"
+  head "git@gitlab.com:kalilinux/packages/fruitywifi-module-supplicant.git"
   version "module"
   
 

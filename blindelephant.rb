@@ -4,7 +4,7 @@
 
 class Blindelephant < Formula
   homepage ""
-  head "git://git.kali.org/packages/blindelephant.git"
+  head "git@gitlab.com:kalilinux/packages/blindelephant.git"
   
 
   # depends_on "cmake" => :build

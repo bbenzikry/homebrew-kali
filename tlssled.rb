@@ -4,7 +4,7 @@
 
 class Tlssled < Formula
   homepage ""
-  head "git://git.kali.org/packages/tlssled.git"
+  head "git@gitlab.com:kalilinux/packages/tlssled.git"
   
 
   # depends_on "cmake" => :build

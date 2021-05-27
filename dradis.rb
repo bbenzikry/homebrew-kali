@@ -4,7 +4,7 @@
 
 class Dradis < Formula
   homepage ""
-  head "git://git.kali.org/packages/dradis.git"
+  head "git@gitlab.com:kalilinux/packages/dradis.git"
   
 
   # depends_on "cmake" => :build

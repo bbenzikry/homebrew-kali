@@ -4,7 +4,7 @@
 
 class Libpff < Formula
   homepage ""
-  head "git://git.kali.org/packages/libpff.git"
+  head "git@gitlab.com:kalilinux/packages/libpff.git"
   
 
   # depends_on "cmake" => :build

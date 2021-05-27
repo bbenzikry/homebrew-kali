@@ -4,7 +4,7 @@
 
 class PythonXdot < Formula
   homepage ""
-  head "git://git.kali.org/packages/python-xdot.git"
+  head "git@gitlab.com:kalilinux/packages/python-xdot.git"
   version "xdot"
   
 

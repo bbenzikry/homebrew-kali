@@ -4,7 +4,7 @@
 
 class Bluepot < Formula
   homepage ""
-  head "git://git.kali.org/packages/bluepot.git"
+  head "git@gitlab.com:kalilinux/packages/bluepot.git"
   
 
   # depends_on "cmake" => :build

@@ -4,7 +4,7 @@
 
 class GrBaz < Formula
   homepage ""
-  head "git://git.kali.org/packages/gr-baz.git"
+  head "git@gitlab.com:kalilinux/packages/gr-baz.git"
   version "baz"
   
 

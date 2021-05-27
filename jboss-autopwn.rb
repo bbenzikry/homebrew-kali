@@ -4,7 +4,7 @@
 
 class JbossAutopwn < Formula
   homepage ""
-  head "git://git.kali.org/packages/jboss-autopwn.git"
+  head "git@gitlab.com:kalilinux/packages/jboss-autopwn.git"
   version "autopwn"
   
 

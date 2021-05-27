@@ -4,7 +4,7 @@
 
 class OSaft < Formula
   homepage ""
-  head "git://git.kali.org/packages/o-saft.git"
+  head "git@gitlab.com:kalilinux/packages/o-saft.git"
   version "saft"
   
 

@@ -4,7 +4,7 @@
 
 class FruitywifiModuleVfeed < Formula
   homepage ""
-  head "git://git.kali.org/packages/fruitywifi-module-vfeed.git"
+  head "git@gitlab.com:kalilinux/packages/fruitywifi-module-vfeed.git"
   version "module"
   
 

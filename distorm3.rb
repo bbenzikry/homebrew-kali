@@ -4,7 +4,7 @@
 
 class Distorm3 < Formula
   homepage ""
-  head "git://git.kali.org/packages/distorm3.git"
+  head "git@gitlab.com:kalilinux/packages/distorm3.git"
   version "3"
   
 

@@ -4,7 +4,7 @@
 
 class Vlc < Formula
   homepage ""
-  head "git://git.kali.org/packages/vlc.git"
+  head "git@gitlab.com:kalilinux/packages/vlc.git"
   
 
   # depends_on "cmake" => :build

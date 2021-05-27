@@ -4,7 +4,7 @@
 
 class FruitywifiModuleTcpdump < Formula
   homepage ""
-  head "git://git.kali.org/packages/fruitywifi-module-tcpdump.git"
+  head "git@gitlab.com:kalilinux/packages/fruitywifi-module-tcpdump.git"
   version "module"
   
 

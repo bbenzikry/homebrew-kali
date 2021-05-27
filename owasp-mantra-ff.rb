@@ -4,7 +4,7 @@
 
 class OwaspMantraFf < Formula
   homepage ""
-  head "git://git.kali.org/packages/owasp-mantra-ff.git"
+  head "git@gitlab.com:kalilinux/packages/owasp-mantra-ff.git"
   version "mantra"
   
 

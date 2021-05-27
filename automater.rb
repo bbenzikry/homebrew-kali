@@ -4,7 +4,7 @@
 
 class Automater < Formula
   homepage ""
-  head "git://git.kali.org/packages/automater.git"
+  head "git@gitlab.com:kalilinux/packages/automater.git"
   
 
   # depends_on "cmake" => :build

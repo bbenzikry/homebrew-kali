@@ -4,7 +4,7 @@
 
 class ThcIpv6 < Formula
   homepage ""
-  head "git://git.kali.org/packages/thc-ipv6.git"
+  head "git@gitlab.com:kalilinux/packages/thc-ipv6.git"
   version "6"
   
 

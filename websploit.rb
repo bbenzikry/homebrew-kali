@@ -4,7 +4,7 @@
 
 class Websploit < Formula
   homepage ""
-  head "git://git.kali.org/packages/websploit.git"
+  head "git@gitlab.com:kalilinux/packages/websploit.git"
   
 
   # depends_on "cmake" => :build

@@ -4,7 +4,7 @@
 
 class FruitywifiModuleNgrep < Formula
   homepage ""
-  head "git://git.kali.org/packages/fruitywifi-module-ngrep.git"
+  head "git@gitlab.com:kalilinux/packages/fruitywifi-module-ngrep.git"
   version "module"
   
 

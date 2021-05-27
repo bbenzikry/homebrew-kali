@@ -4,7 +4,7 @@
 
 class Dbpwaudit < Formula
   homepage ""
-  head "git://git.kali.org/packages/dbpwaudit.git"
+  head "git@gitlab.com:kalilinux/packages/dbpwaudit.git"
   
 
   # depends_on "cmake" => :build

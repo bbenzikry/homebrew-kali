@@ -4,7 +4,7 @@
 
 class FerretSidejack < Formula
   homepage ""
-  head "git://git.kali.org/packages/ferret-sidejack.git"
+  head "git@gitlab.com:kalilinux/packages/ferret-sidejack.git"
   version "sidejack"
   
 

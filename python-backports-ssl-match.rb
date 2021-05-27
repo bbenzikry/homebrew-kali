@@ -4,7 +4,7 @@
 
 class PythonBackportsSslMatch < Formula
   homepage ""
-  head "git://git.kali.org/packages/python-backports-ssl-match-hostname.git"
+  head "git@gitlab.com:kalilinux/packages/python-backports-ssl-match-hostname.git"
   version "backports"
   
 

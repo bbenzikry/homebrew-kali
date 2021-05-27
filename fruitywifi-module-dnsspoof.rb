@@ -4,7 +4,7 @@
 
 class FruitywifiModuleDnsspoof < Formula
   homepage ""
-  head "git://git.kali.org/packages/fruitywifi-module-dnsspoof.git"
+  head "git@gitlab.com:kalilinux/packages/fruitywifi-module-dnsspoof.git"
   version "module"
   
 

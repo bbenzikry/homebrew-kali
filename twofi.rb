@@ -4,7 +4,7 @@
 
 class Twofi < Formula
   homepage ""
-  head "git://git.kali.org/packages/twofi.git"
+  head "git@gitlab.com:kalilinux/packages/twofi.git"
   
 
   # depends_on "cmake" => :build

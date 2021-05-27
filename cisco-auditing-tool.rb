@@ -4,7 +4,7 @@
 
 class CiscoAuditingTool < Formula
   homepage ""
-  head "git://git.kali.org/packages/cisco-auditing-tool.git"
+  head "git@gitlab.com:kalilinux/packages/cisco-auditing-tool.git"
   version "auditing"
   
 

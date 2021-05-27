@@ -4,7 +4,7 @@
 
 class Multiforcer < Formula
   homepage ""
-  head "git://git.kali.org/packages/multiforcer.git"
+  head "git@gitlab.com:kalilinux/packages/multiforcer.git"
   
 
   # depends_on "cmake" => :build

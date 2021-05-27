@@ -4,7 +4,7 @@
 
 class FruitywifiModuleKarma < Formula
   homepage ""
-  head "git://git.kali.org/packages/fruitywifi-module-karma.git"
+  head "git@gitlab.com:kalilinux/packages/fruitywifi-module-karma.git"
   version "module"
   
 

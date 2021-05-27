@@ -4,7 +4,7 @@
 
 class Crackle < Formula
   homepage ""
-  head "git://git.kali.org/packages/crackle.git"
+  head "git@gitlab.com:kalilinux/packages/crackle.git"
   
 
   # depends_on "cmake" => :build

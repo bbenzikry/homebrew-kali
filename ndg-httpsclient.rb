@@ -4,7 +4,7 @@
 
 class NdgHttpsclient < Formula
   homepage ""
-  head "git://git.kali.org/packages/ndg-httpsclient.git"
+  head "git@gitlab.com:kalilinux/packages/ndg-httpsclient.git"
   version "httpsclient"
   
 

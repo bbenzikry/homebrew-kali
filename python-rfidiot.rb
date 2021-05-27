@@ -4,7 +4,7 @@
 
 class PythonRfidiot < Formula
   homepage ""
-  head "git://git.kali.org/packages/python-rfidiot.git"
+  head "git@gitlab.com:kalilinux/packages/python-rfidiot.git"
   version "rfidiot"
   
 

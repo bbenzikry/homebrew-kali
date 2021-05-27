@@ -4,7 +4,7 @@
 
 class WinePython27 < Formula
   homepage ""
-  head "git://git.kali.org/packages/wine-python-2.7.git"
+  head "git@gitlab.com:kalilinux/packages/wine-python-2.7.git"
   version "2.7"
   
 

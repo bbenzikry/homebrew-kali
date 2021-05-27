@@ -4,7 +4,7 @@
 
 class RubyPatron < Formula
   homepage ""
-  head "git://git.kali.org/packages/ruby-patron.git"
+  head "git@gitlab.com:kalilinux/packages/ruby-patron.git"
   version "patron"
   
 

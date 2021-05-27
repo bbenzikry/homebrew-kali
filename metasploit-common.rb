@@ -4,7 +4,7 @@
 
 class MetasploitCommon < Formula
   homepage ""
-  head "git://git.kali.org/packages/metasploit-common.git"
+  head "git@gitlab.com:kalilinux/packages/metasploit-common.git"
   version "common"
   
 

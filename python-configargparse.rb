@@ -4,7 +4,7 @@
 
 class PythonConfigargparse < Formula
   homepage ""
-  head "git://git.kali.org/packages/python-configargparse.git"
+  head "git@gitlab.com:kalilinux/packages/python-configargparse.git"
   version "configargparse"
   
 

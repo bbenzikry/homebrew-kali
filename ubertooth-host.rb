@@ -4,7 +4,7 @@
 
 class UbertoothHost < Formula
   homepage ""
-  head "git://git.kali.org/packages/ubertooth-host.git"
+  head "git@gitlab.com:kalilinux/packages/ubertooth-host.git"
   version "host"
   
 

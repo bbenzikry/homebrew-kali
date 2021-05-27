@@ -4,7 +4,7 @@
 
 class UaTester < Formula
   homepage ""
-  head "git://git.kali.org/packages/ua-tester.git"
+  head "git@gitlab.com:kalilinux/packages/ua-tester.git"
   version "tester"
   
 

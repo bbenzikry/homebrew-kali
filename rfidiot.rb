@@ -4,7 +4,7 @@
 
 class Rfidiot < Formula
   homepage ""
-  head "git://git.kali.org/packages/rfidiot.git"
+  head "git@gitlab.com:kalilinux/packages/rfidiot.git"
   
 
   # depends_on "cmake" => :build

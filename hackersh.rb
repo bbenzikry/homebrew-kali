@@ -4,7 +4,7 @@
 
 class Hackersh < Formula
   homepage ""
-  head "git://git.kali.org/packages/hackersh.git"
+  head "git@gitlab.com:kalilinux/packages/hackersh.git"
   
 
   # depends_on "cmake" => :build

@@ -4,7 +4,7 @@
 
 class PythonFaraday < Formula
   homepage ""
-  head "git://git.kali.org/packages/python-faraday.git"
+  head "git@gitlab.com:kalilinux/packages/python-faraday.git"
   version "faraday"
   
 

@@ -4,7 +4,7 @@
 
 class Wkhtmltopdf < Formula
   homepage ""
-  head "git://git.kali.org/packages/wkhtmltopdf.git"
+  head "git@gitlab.com:kalilinux/packages/wkhtmltopdf.git"
   
 
   # depends_on "cmake" => :build

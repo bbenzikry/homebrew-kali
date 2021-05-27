@@ -4,7 +4,7 @@
 
 class PythonStopit < Formula
   homepage ""
-  head "git://git.kali.org/packages/python-stopit.git"
+  head "git@gitlab.com:kalilinux/packages/python-stopit.git"
   version "stopit"
   
 

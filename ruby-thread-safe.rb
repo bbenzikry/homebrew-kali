@@ -4,7 +4,7 @@
 
 class RubyThreadSafe < Formula
   homepage ""
-  head "git://git.kali.org/packages/ruby-thread-safe.git"
+  head "git@gitlab.com:kalilinux/packages/ruby-thread-safe.git"
   version "thread"
   
 

@@ -4,7 +4,7 @@
 
 class Drozer < Formula
   homepage ""
-  head "git://git.kali.org/packages/drozer.git"
+  head "git@gitlab.com:kalilinux/packages/drozer.git"
   
 
   # depends_on "cmake" => :build

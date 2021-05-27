@@ -4,7 +4,7 @@
 
 class Cutycapt < Formula
   homepage ""
-  head "git://git.kali.org/packages/cutycapt.git"
+  head "git@gitlab.com:kalilinux/packages/cutycapt.git"
   
 
   # depends_on "cmake" => :build

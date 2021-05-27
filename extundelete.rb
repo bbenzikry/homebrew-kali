@@ -4,7 +4,7 @@
 
 class Extundelete < Formula
   homepage ""
-  head "git://git.kali.org/packages/extundelete.git"
+  head "git@gitlab.com:kalilinux/packages/extundelete.git"
   
 
   # depends_on "cmake" => :build

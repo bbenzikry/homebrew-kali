@@ -4,7 +4,7 @@
 
 class RubyMimeTypes < Formula
   homepage ""
-  head "git://git.kali.org/packages/ruby-mime-types.git"
+  head "git@gitlab.com:kalilinux/packages/ruby-mime-types.git"
   version "mime"
   
 

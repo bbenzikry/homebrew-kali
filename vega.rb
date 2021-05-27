@@ -4,7 +4,7 @@
 
 class Vega < Formula
   homepage ""
-  head "git://git.kali.org/packages/vega.git"
+  head "git@gitlab.com:kalilinux/packages/vega.git"
   
 
   # depends_on "cmake" => :build

@@ -4,7 +4,7 @@
 
 class VeilEvasion < Formula
   homepage ""
-  head "git://git.kali.org/packages/veil-evasion.git"
+  head "git@gitlab.com:kalilinux/packages/veil-evasion.git"
   version "evasion"
   
 

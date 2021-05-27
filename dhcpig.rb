@@ -4,7 +4,7 @@
 
 class Dhcpig < Formula
   homepage ""
-  head "git://git.kali.org/packages/dhcpig.git"
+  head "git@gitlab.com:kalilinux/packages/dhcpig.git"
   
 
   # depends_on "cmake" => :build

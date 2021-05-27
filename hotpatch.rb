@@ -4,7 +4,7 @@
 
 class Hotpatch < Formula
   homepage ""
-  head "git://git.kali.org/packages/hotpatch.git"
+  head "git@gitlab.com:kalilinux/packages/hotpatch.git"
   
 
   # depends_on "cmake" => :build

@@ -4,7 +4,7 @@
 
 class GrExtras < Formula
   homepage ""
-  head "git://git.kali.org/packages/gr-extras.git"
+  head "git@gitlab.com:kalilinux/packages/gr-extras.git"
   version "extras"
   
 

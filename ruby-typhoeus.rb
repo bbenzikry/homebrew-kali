@@ -4,7 +4,7 @@
 
 class RubyTyphoeus < Formula
   homepage ""
-  head "git://git.kali.org/packages/ruby-typhoeus.git"
+  head "git@gitlab.com:kalilinux/packages/ruby-typhoeus.git"
   version "typhoeus"
   
 

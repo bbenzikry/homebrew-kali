@@ -4,7 +4,7 @@
 
 class Snmpcheck < Formula
   homepage ""
-  head "git://git.kali.org/packages/snmpcheck.git"
+  head "git@gitlab.com:kalilinux/packages/snmpcheck.git"
   
 
   # depends_on "cmake" => :build

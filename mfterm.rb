@@ -4,7 +4,7 @@
 
 class Mfterm < Formula
   homepage ""
-  head "git://git.kali.org/packages/mfterm.git"
+  head "git@gitlab.com:kalilinux/packages/mfterm.git"
   
 
   # depends_on "cmake" => :build

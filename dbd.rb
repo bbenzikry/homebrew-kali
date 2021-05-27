@@ -4,7 +4,7 @@
 
 class Dbd < Formula
   homepage ""
-  head "git://git.kali.org/packages/dbd.git"
+  head "git@gitlab.com:kalilinux/packages/dbd.git"
   
 
   # depends_on "cmake" => :build

@@ -4,7 +4,7 @@
 
 class BackdoorFactory < Formula
   homepage ""
-  head "git://git.kali.org/packages/backdoor-factory.git"
+  head "git@gitlab.com:kalilinux/packages/backdoor-factory.git"
   version "factory"
   
 

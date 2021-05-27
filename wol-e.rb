@@ -4,7 +4,7 @@
 
 class WolE < Formula
   homepage ""
-  head "git://git.kali.org/packages/wol-e.git"
+  head "git@gitlab.com:kalilinux/packages/wol-e.git"
   version "e"
   
 

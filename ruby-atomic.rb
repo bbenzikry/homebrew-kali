@@ -4,7 +4,7 @@
 
 class RubyAtomic < Formula
   homepage ""
-  head "git://git.kali.org/packages/ruby-atomic.git"
+  head "git@gitlab.com:kalilinux/packages/ruby-atomic.git"
   version "atomic"
   
 

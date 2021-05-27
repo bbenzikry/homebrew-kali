@@ -4,7 +4,7 @@
 
 class Wpscan < Formula
   homepage ""
-  head "git://git.kali.org/packages/wpscan.git"
+  head "git@gitlab.com:kalilinux/packages/wpscan.git"
   
 
   # depends_on "cmake" => :build

@@ -4,7 +4,7 @@
 
 class Cuckoo < Formula
   homepage ""
-  head "git://git.kali.org/packages/cuckoo.git"
+  head "git@gitlab.com:kalilinux/packages/cuckoo.git"
   
 
   # depends_on "cmake" => :build

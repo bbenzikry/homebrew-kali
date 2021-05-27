@@ -4,7 +4,7 @@
 
 class WindowsBinaries < Formula
   homepage ""
-  head "git://git.kali.org/packages/windows-binaries.git"
+  head "git@gitlab.com:kalilinux/packages/windows-binaries.git"
   version "binaries"
   
 

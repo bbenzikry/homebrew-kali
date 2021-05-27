@@ -4,7 +4,7 @@
 
 class Sqldict < Formula
   homepage ""
-  head "git://git.kali.org/packages/sqldict.git"
+  head "git@gitlab.com:kalilinux/packages/sqldict.git"
   
 
   # depends_on "cmake" => :build

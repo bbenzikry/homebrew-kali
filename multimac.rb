@@ -4,7 +4,7 @@
 
 class Multimac < Formula
   homepage ""
-  head "git://git.kali.org/packages/multimac.git"
+  head "git@gitlab.com:kalilinux/packages/multimac.git"
   
 
   # depends_on "cmake" => :build

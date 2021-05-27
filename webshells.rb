@@ -4,7 +4,7 @@
 
 class Webshells < Formula
   homepage ""
-  head "git://git.kali.org/packages/webshells.git"
+  head "git@gitlab.com:kalilinux/packages/webshells.git"
   
 
   # depends_on "cmake" => :build

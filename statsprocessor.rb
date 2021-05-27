@@ -4,7 +4,7 @@
 
 class Statsprocessor < Formula
   homepage ""
-  head "git://git.kali.org/packages/statsprocessor.git"
+  head "git@gitlab.com:kalilinux/packages/statsprocessor.git"
   
 
   # depends_on "cmake" => :build

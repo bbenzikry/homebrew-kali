@@ -4,7 +4,7 @@
 
 class FglrxDriver < Formula
   homepage ""
-  head "git://git.kali.org/packages/fglrx-driver.git"
+  head "git@gitlab.com:kalilinux/packages/fglrx-driver.git"
   version "driver"
   
 

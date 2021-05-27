@@ -4,7 +4,7 @@
 
 class RcrackiMt < Formula
   homepage ""
-  head "git://git.kali.org/packages/rcracki-mt.git"
+  head "git@gitlab.com:kalilinux/packages/rcracki-mt.git"
   version "mt"
   
 

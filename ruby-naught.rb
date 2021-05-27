@@ -4,7 +4,7 @@
 
 class RubyNaught < Formula
   homepage ""
-  head "git://git.kali.org/packages/ruby-naught.git"
+  head "git@gitlab.com:kalilinux/packages/ruby-naught.git"
   version "naught"
   
 

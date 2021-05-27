@@ -4,7 +4,7 @@
 
 class PythonNetlib < Formula
   homepage ""
-  head "git://git.kali.org/packages/python-netlib.git"
+  head "git@gitlab.com:kalilinux/packages/python-netlib.git"
   version "netlib"
   
 

@@ -4,7 +4,7 @@
 
 class OclhashcatLite < Formula
   homepage ""
-  head "git://git.kali.org/packages/oclhashcat-lite.git"
+  head "git@gitlab.com:kalilinux/packages/oclhashcat-lite.git"
   version "lite"
   
 

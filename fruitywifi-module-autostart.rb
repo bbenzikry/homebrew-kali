@@ -4,7 +4,7 @@
 
 class FruitywifiModuleAutostart < Formula
   homepage ""
-  head "git://git.kali.org/packages/fruitywifi-module-autostart.git"
+  head "git@gitlab.com:kalilinux/packages/fruitywifi-module-autostart.git"
   version "module"
   
 

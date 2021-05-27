@@ -4,7 +4,7 @@
 
 class PythonPygithub < Formula
   homepage ""
-  head "git://git.kali.org/packages/python-pygithub.git"
+  head "git@gitlab.com:kalilinux/packages/python-pygithub.git"
   version "pygithub"
   
 

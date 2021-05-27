@@ -4,7 +4,7 @@
 
 class Tnscmd10g < Formula
   homepage ""
-  head "git://git.kali.org/packages/tnscmd10g.git"
+  head "git@gitlab.com:kalilinux/packages/tnscmd10g.git"
   
 
   # depends_on "cmake" => :build

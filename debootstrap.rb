@@ -4,7 +4,7 @@
 
 class Debootstrap < Formula
   homepage ""
-  head "git://git.kali.org/packages/debootstrap.git"
+  head "git@gitlab.com:kalilinux/packages/debootstrap.git"
   
 
   # depends_on "cmake" => :build

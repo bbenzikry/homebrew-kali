@@ -4,7 +4,7 @@
 
 class FruitywifiModuleMeterpreter < Formula
   homepage ""
-  head "git://git.kali.org/packages/fruitywifi-module-meterpreter.git"
+  head "git@gitlab.com:kalilinux/packages/fruitywifi-module-meterpreter.git"
   version "module"
   
 

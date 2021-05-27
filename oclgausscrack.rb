@@ -4,7 +4,7 @@
 
 class Oclgausscrack < Formula
   homepage ""
-  head "git://git.kali.org/packages/oclgausscrack.git"
+  head "git@gitlab.com:kalilinux/packages/oclgausscrack.git"
   
 
   # depends_on "cmake" => :build

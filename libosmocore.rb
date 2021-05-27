@@ -4,7 +4,7 @@
 
 class Libosmocore < Formula
   homepage ""
-  head "git://git.kali.org/packages/libosmocore.git"
+  head "git@gitlab.com:kalilinux/packages/libosmocore.git"
   
 
   # depends_on "cmake" => :build

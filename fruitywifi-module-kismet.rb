@@ -4,7 +4,7 @@
 
 class FruitywifiModuleKismet < Formula
   homepage ""
-  head "git://git.kali.org/packages/fruitywifi-module-kismet.git"
+  head "git@gitlab.com:kalilinux/packages/fruitywifi-module-kismet.git"
   version "module"
   
 

@@ -4,7 +4,7 @@
 
 class Jad < Formula
   homepage ""
-  head "git://git.kali.org/packages/jad.git"
+  head "git@gitlab.com:kalilinux/packages/jad.git"
   
 
   # depends_on "cmake" => :build

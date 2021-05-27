@@ -4,7 +4,7 @@
 
 class FruitywifiModulePhishing < Formula
   homepage ""
-  head "git://git.kali.org/packages/fruitywifi-module-phishing.git"
+  head "git@gitlab.com:kalilinux/packages/fruitywifi-module-phishing.git"
   version "module"
   
 

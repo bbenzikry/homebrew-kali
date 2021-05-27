@@ -4,7 +4,7 @@
 
 class Bully < Formula
   homepage ""
-  head "git://git.kali.org/packages/bully.git"
+  head "git@gitlab.com:kalilinux/packages/bully.git"
   
 
   # depends_on "cmake" => :build

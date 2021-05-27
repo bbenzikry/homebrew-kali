@@ -4,7 +4,7 @@
 
 class WindowsPrivescCheck < Formula
   homepage ""
-  head "git://git.kali.org/packages/windows-privesc-check.git"
+  head "git@gitlab.com:kalilinux/packages/windows-privesc-check.git"
   version "privesc"
   
 

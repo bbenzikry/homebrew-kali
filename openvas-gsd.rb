@@ -4,7 +4,7 @@
 
 class OpenvasGsd < Formula
   homepage ""
-  head "git://git.kali.org/packages/gsd.git"
+  head "git@gitlab.com:kalilinux/packages/gsd.git"
   
 
   # depends_on "cmake" => :build

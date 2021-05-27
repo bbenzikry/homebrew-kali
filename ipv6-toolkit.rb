@@ -4,7 +4,7 @@
 
 class Ipv6Toolkit < Formula
   homepage ""
-  head "git://git.kali.org/packages/ipv6-toolkit.git"
+  head "git@gitlab.com:kalilinux/packages/ipv6-toolkit.git"
   version "toolkit"
   
 

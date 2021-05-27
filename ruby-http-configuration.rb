@@ -4,7 +4,7 @@
 
 class RubyHttpConfiguration < Formula
   homepage ""
-  head "git://git.kali.org/packages/ruby-http-configuration.git"
+  head "git@gitlab.com:kalilinux/packages/ruby-http-configuration.git"
   version "http"
   
 

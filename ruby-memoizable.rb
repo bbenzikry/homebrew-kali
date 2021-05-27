@@ -4,7 +4,7 @@
 
 class RubyMemoizable < Formula
   homepage ""
-  head "git://git.kali.org/packages/ruby-memoizable.git"
+  head "git@gitlab.com:kalilinux/packages/ruby-memoizable.git"
   version "memoizable"
   
 

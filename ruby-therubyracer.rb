@@ -4,7 +4,7 @@
 
 class RubyTherubyracer < Formula
   homepage ""
-  head "git://git.kali.org/packages/ruby-therubyracer.git"
+  head "git@gitlab.com:kalilinux/packages/ruby-therubyracer.git"
   version "therubyracer"
   
 

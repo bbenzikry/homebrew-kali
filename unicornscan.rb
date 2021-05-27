@@ -4,7 +4,7 @@
 
 class Unicornscan < Formula
   homepage ""
-  head "git://git.kali.org/packages/unicornscan.git"
+  head "git@gitlab.com:kalilinux/packages/unicornscan.git"
   
 
   # depends_on "cmake" => :build

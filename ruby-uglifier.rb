@@ -4,7 +4,7 @@
 
 class RubyUglifier < Formula
   homepage ""
-  head "git://git.kali.org/packages/ruby-uglifier.git"
+  head "git@gitlab.com:kalilinux/packages/ruby-uglifier.git"
   version "uglifier"
   
 

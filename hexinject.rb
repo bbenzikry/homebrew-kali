@@ -4,7 +4,7 @@
 
 class Hexinject < Formula
   homepage ""
-  head "git://git.kali.org/packages/hexinject.git"
+  head "git@gitlab.com:kalilinux/packages/hexinject.git"
   
 
   # depends_on "cmake" => :build

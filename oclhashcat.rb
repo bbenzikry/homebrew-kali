@@ -4,7 +4,7 @@
 
 class Oclhashcat < Formula
   homepage ""
-  head "git://git.kali.org/packages/oclhashcat.git"
+  head "git@gitlab.com:kalilinux/packages/oclhashcat.git"
   
 
   # depends_on "cmake" => :build

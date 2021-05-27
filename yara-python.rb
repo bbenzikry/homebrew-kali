@@ -4,7 +4,7 @@
 
 class YaraPython < Formula
   homepage ""
-  head "git://git.kali.org/packages/yara-python.git"
+  head "git@gitlab.com:kalilinux/packages/yara-python.git"
   version "python"
   
 

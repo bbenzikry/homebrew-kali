@@ -4,7 +4,7 @@
 
 class Recstudio < Formula
   homepage ""
-  head "git://git.kali.org/packages/recstudio.git"
+  head "git@gitlab.com:kalilinux/packages/recstudio.git"
   
 
   # depends_on "cmake" => :build

@@ -4,7 +4,7 @@
 
 class Nfspy < Formula
   homepage ""
-  head "git://git.kali.org/packages/nfspy.git"
+  head "git@gitlab.com:kalilinux/packages/nfspy.git"
   
 
   # depends_on "cmake" => :build

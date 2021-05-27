@@ -4,7 +4,7 @@
 
 class Jsql < Formula
   homepage ""
-  head "git://git.kali.org/packages/jsql.git"
+  head "git@gitlab.com:kalilinux/packages/jsql.git"
   
 
   # depends_on "cmake" => :build

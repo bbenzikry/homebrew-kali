@@ -4,7 +4,7 @@
 
 class Mimikatz < Formula
   homepage ""
-  head "git://git.kali.org/packages/mimikatz.git"
+  head "git@gitlab.com:kalilinux/packages/mimikatz.git"
   
 
   # depends_on "cmake" => :build

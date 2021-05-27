@@ -4,7 +4,7 @@
 
 class HbHoneypot < Formula
   homepage ""
-  head "git://git.kali.org/packages/hb-honeypot.git"
+  head "git@gitlab.com:kalilinux/packages/hb-honeypot.git"
   version "honeypot"
   
 

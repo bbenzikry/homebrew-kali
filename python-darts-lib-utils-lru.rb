@@ -4,7 +4,7 @@
 
 class PythonDartsLibUtilsLru < Formula
   homepage ""
-  head "git://git.kali.org/packages/python-darts-lib-utils-lru.git"
+  head "git@gitlab.com:kalilinux/packages/python-darts-lib-utils-lru.git"
   version "darts"
   
 

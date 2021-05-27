@@ -4,7 +4,7 @@
 
 class RubyMsgpack < Formula
   homepage ""
-  head "git://git.kali.org/packages/ruby-msgpack.git"
+  head "git@gitlab.com:kalilinux/packages/ruby-msgpack.git"
   version "msgpack"
   
 

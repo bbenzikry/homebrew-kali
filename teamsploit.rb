@@ -4,7 +4,7 @@
 
 class Teamsploit < Formula
   homepage ""
-  head "git://git.kali.org/packages/teamsploit.git"
+  head "git@gitlab.com:kalilinux/packages/teamsploit.git"
   
 
   # depends_on "cmake" => :build

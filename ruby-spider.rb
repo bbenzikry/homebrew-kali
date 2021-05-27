@@ -4,7 +4,7 @@
 
 class RubySpider < Formula
   homepage ""
-  head "git://git.kali.org/packages/ruby-spider.git"
+  head "git@gitlab.com:kalilinux/packages/ruby-spider.git"
   version "spider"
   
 

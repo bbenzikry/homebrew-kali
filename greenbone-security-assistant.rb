@@ -4,7 +4,7 @@
 
 class GreenboneSecurityAssistant < Formula
   homepage ""
-  head "git://git.kali.org/packages/greenbone-security-assistant.git"
+  head "git@gitlab.com:kalilinux/packages/greenbone-security-assistant.git"
   version "security"
   
 

@@ -4,7 +4,7 @@
 
 class Miranda < Formula
   homepage ""
-  head "git://git.kali.org/packages/miranda.git"
+  head "git@gitlab.com:kalilinux/packages/miranda.git"
   
 
   # depends_on "cmake" => :build

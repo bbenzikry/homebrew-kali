@@ -4,7 +4,7 @@
 
 class HttpTunnel < Formula
   homepage ""
-  head "git://git.kali.org/packages/http-tunnel.git"
+  head "git@gitlab.com:kalilinux/packages/http-tunnel.git"
   version "tunnel"
   
 

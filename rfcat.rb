@@ -4,7 +4,7 @@
 
 class Rfcat < Formula
   homepage ""
-  head "git://git.kali.org/packages/rfcat.git"
+  head "git@gitlab.com:kalilinux/packages/rfcat.git"
   
 
   # depends_on "cmake" => :build

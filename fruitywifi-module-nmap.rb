@@ -4,7 +4,7 @@
 
 class FruitywifiModuleNmap < Formula
   homepage ""
-  head "git://git.kali.org/packages/fruitywifi-module-nmap.git"
+  head "git@gitlab.com:kalilinux/packages/fruitywifi-module-nmap.git"
   version "module"
   
 

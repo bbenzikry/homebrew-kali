@@ -4,7 +4,7 @@
 
 class EdbDebugger < Formula
   homepage ""
-  head "git://git.kali.org/packages/edb-debugger.git"
+  head "git@gitlab.com:kalilinux/packages/edb-debugger.git"
   version "debugger"
   
 

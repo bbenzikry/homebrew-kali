@@ -4,7 +4,7 @@
 
 class Pytest < Formula
   homepage ""
-  head "git://git.kali.org/packages/pytest.git"
+  head "git@gitlab.com:kalilinux/packages/pytest.git"
   
 
   # depends_on "cmake" => :build

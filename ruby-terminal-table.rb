@@ -4,7 +4,7 @@
 
 class RubyTerminalTable < Formula
   homepage ""
-  head "git://git.kali.org/packages/ruby-terminal-table.git"
+  head "git@gitlab.com:kalilinux/packages/ruby-terminal-table.git"
   version "terminal"
   
 

@@ -4,7 +4,7 @@
 
 class MaltegoTeeth < Formula
   homepage ""
-  head "git://git.kali.org/packages/maltego-teeth.git"
+  head "git@gitlab.com:kalilinux/packages/maltego-teeth.git"
   version "teeth"
   
 

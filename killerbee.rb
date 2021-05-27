@@ -4,7 +4,7 @@
 
 class Killerbee < Formula
   homepage ""
-  head "git://git.kali.org/packages/killerbee.git"
+  head "git@gitlab.com:kalilinux/packages/killerbee.git"
   
 
   # depends_on "cmake" => :build

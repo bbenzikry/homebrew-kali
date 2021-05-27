@@ -4,7 +4,7 @@
 
 class ManaToolkit < Formula
   homepage ""
-  head "git://git.kali.org/packages/mana-toolkit.git"
+  head "git@gitlab.com:kalilinux/packages/mana-toolkit.git"
   version "toolkit"
   
 

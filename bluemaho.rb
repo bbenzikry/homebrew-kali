@@ -4,7 +4,7 @@
 
 class Bluemaho < Formula
   homepage ""
-  head "git://git.kali.org/packages/bluemaho.git"
+  head "git@gitlab.com:kalilinux/packages/bluemaho.git"
   
 
   # depends_on "cmake" => :build

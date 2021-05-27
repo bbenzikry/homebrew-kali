@@ -4,7 +4,7 @@
 
 class Magictree < Formula
   homepage ""
-  head "git://git.kali.org/packages/magictree.git"
+  head "git@gitlab.com:kalilinux/packages/magictree.git"
   
 
   # depends_on "cmake" => :build

@@ -4,7 +4,7 @@
 
 class Lbd < Formula
   homepage ""
-  head "git://git.kali.org/packages/lbd.git"
+  head "git@gitlab.com:kalilinux/packages/lbd.git"
   
 
   # depends_on "cmake" => :build

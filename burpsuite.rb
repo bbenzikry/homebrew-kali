@@ -4,7 +4,7 @@
 
 class Burpsuite < Formula
   homepage ""
-  head "git://git.kali.org/packages/burpsuite.git"
+  head "git@gitlab.com:kalilinux/packages/burpsuite.git"
   
 
   # depends_on "cmake" => :build

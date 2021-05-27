@@ -4,7 +4,7 @@
 
 class RubyRubberGenerate < Formula
   homepage ""
-  head "git://git.kali.org/packages/ruby-rubber-generate.git"
+  head "git@gitlab.com:kalilinux/packages/ruby-rubber-generate.git"
   version "rubber"
   
 

@@ -4,7 +4,7 @@
 
 class NdpiLibrary < Formula
   homepage ""
-  head "git://git.kali.org/packages/ndpi.git"
+  head "git@gitlab.com:kalilinux/packages/ndpi.git"
   
 
   # depends_on "cmake" => :build

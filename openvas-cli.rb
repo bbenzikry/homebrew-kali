@@ -4,7 +4,7 @@
 
 class OpenvasCli < Formula
   homepage ""
-  head "git://git.kali.org/packages/openvas-cli.git"
+  head "git@gitlab.com:kalilinux/packages/openvas-cli.git"
   version "cli"
   
 

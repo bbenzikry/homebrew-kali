@@ -4,7 +4,7 @@
 
 class PythonUsb < Formula
   homepage ""
-  head "git://git.kali.org/packages/python-usb.git"
+  head "git@gitlab.com:kalilinux/packages/python-usb.git"
   version "usb"
   
 

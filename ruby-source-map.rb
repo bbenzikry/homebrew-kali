@@ -4,7 +4,7 @@
 
 class RubySourceMap < Formula
   homepage ""
-  head "git://git.kali.org/packages/ruby-source-map.git"
+  head "git@gitlab.com:kalilinux/packages/ruby-source-map.git"
   version "source"
   
 

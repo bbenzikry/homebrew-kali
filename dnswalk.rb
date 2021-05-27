@@ -4,7 +4,7 @@
 
 class Dnswalk < Formula
   homepage ""
-  head "git://git.kali.org/packages/dnswalk.git"
+  head "git@gitlab.com:kalilinux/packages/dnswalk.git"
   
 
   # depends_on "cmake" => :build

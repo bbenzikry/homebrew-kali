@@ -4,7 +4,7 @@
 
 class ReconNg < Formula
   homepage ""
-  head "git://git.kali.org/packages/recon-ng.git"
+  head "git@gitlab.com:kalilinux/packages/recon-ng.git"
   version "ng"
   
 

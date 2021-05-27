@@ -4,7 +4,7 @@
 
 class Javasnoop < Formula
   homepage ""
-  head "git://git.kali.org/packages/javasnoop.git"
+  head "git@gitlab.com:kalilinux/packages/javasnoop.git"
   
 
   # depends_on "cmake" => :build

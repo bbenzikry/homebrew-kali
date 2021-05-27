@@ -4,7 +4,7 @@
 
 class Wce < Formula
   homepage ""
-  head "git://git.kali.org/packages/wce.git"
+  head "git@gitlab.com:kalilinux/packages/wce.git"
   
 
   # depends_on "cmake" => :build

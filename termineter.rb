@@ -4,7 +4,7 @@
 
 class Termineter < Formula
   homepage ""
-  head "git://git.kali.org/packages/termineter.git"
+  head "git@gitlab.com:kalilinux/packages/termineter.git"
   
 
   # depends_on "cmake" => :build

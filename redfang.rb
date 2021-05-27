@@ -4,7 +4,7 @@
 
 class Redfang < Formula
   homepage ""
-  head "git://git.kali.org/packages/redfang.git"
+  head "git@gitlab.com:kalilinux/packages/redfang.git"
   
 
   # depends_on "cmake" => :build

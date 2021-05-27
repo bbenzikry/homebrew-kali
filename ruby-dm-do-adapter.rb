@@ -4,7 +4,7 @@
 
 class RubyDmDoAdapter < Formula
   homepage ""
-  head "git://git.kali.org/packages/ruby-dm-do-adapter.git"
+  head "git@gitlab.com:kalilinux/packages/ruby-dm-do-adapter.git"
   version "dm"
   
 

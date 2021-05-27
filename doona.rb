@@ -4,7 +4,7 @@
 
 class Doona < Formula
   homepage ""
-  head "git://git.kali.org/packages/doona.git"
+  head "git@gitlab.com:kalilinux/packages/doona.git"
   
 
   # depends_on "cmake" => :build

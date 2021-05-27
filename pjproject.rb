@@ -4,7 +4,7 @@
 
 class Pjproject < Formula
   homepage ""
-  head "git://git.kali.org/packages/pjproject.git"
+  head "git@gitlab.com:kalilinux/packages/pjproject.git"
   
 
   # depends_on "cmake" => :build

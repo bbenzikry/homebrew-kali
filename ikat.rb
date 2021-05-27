@@ -4,7 +4,7 @@
 
 class Ikat < Formula
   homepage ""
-  head "git://git.kali.org/packages/ikat.git"
+  head "git@gitlab.com:kalilinux/packages/ikat.git"
   
 
   # depends_on "cmake" => :build

@@ -4,7 +4,7 @@
 
 class CiscoOcs < Formula
   homepage ""
-  head "git://git.kali.org/packages/cisco-ocs.git"
+  head "git@gitlab.com:kalilinux/packages/cisco-ocs.git"
   version "ocs"
   
 

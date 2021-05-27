@@ -4,7 +4,7 @@
 
 class RubyHttpParserRb < Formula
   homepage ""
-  head "git://git.kali.org/packages/ruby-http-parser.rb.git"
+  head "git@gitlab.com:kalilinux/packages/ruby-http-parser.rb.git"
   version "http"
   
 

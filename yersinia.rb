@@ -4,7 +4,7 @@
 
 class Yersinia < Formula
   homepage ""
-  head "git://git.kali.org/packages/yersinia.git"
+  head "git@gitlab.com:kalilinux/packages/yersinia.git"
   
 
   # depends_on "cmake" => :build

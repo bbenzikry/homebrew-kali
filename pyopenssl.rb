@@ -4,7 +4,7 @@
 
 class Pyopenssl < Formula
   homepage ""
-  head "git://git.kali.org/packages/pyopenssl.git"
+  head "git@gitlab.com:kalilinux/packages/pyopenssl.git"
   
 
   # depends_on "cmake" => :build

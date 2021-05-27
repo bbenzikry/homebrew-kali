@@ -4,7 +4,7 @@
 
 class Cewl < Formula
   homepage ""
-  head "git://git.kali.org/packages/cewl.git"
+  head "git@gitlab.com:kalilinux/packages/cewl.git"
   
 
   # depends_on "cmake" => :build

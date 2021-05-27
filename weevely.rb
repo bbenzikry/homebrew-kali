@@ -4,7 +4,7 @@
 
 class Weevely < Formula
   homepage ""
-  head "git://git.kali.org/packages/weevely.git"
+  head "git@gitlab.com:kalilinux/packages/weevely.git"
   
 
   # depends_on "cmake" => :build

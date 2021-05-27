@@ -4,7 +4,7 @@
 
 class Bluesnarfer < Formula
   homepage ""
-  head "git://git.kali.org/packages/bluesnarfer.git"
+  head "git@gitlab.com:kalilinux/packages/bluesnarfer.git"
   
 
   # depends_on "cmake" => :build
