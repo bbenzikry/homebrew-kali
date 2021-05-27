@@ -4,7 +4,7 @@
 
 class Gem2deb < Formula
   homepage ""
-  head "git@gitlab.com:kalilinux/packages/gem2deb.git"
+  head "git://gitlab.com:kalilinux/packages/gem2deb.git"
   
 
   # depends_on "cmake" => :build

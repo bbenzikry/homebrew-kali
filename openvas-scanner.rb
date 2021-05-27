@@ -4,7 +4,7 @@
 
 class OpenvasScanner < Formula
   homepage ""
-  head "git@gitlab.com:kalilinux/packages/openvas-scanner.git"
+  head "git://gitlab.com:kalilinux/packages/openvas-scanner.git"
   version "scanner"
   
 

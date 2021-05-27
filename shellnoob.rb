@@ -4,7 +4,7 @@
 
 class Shellnoob < Formula
   homepage ""
-  head "git@gitlab.com:kalilinux/packages/shellnoob.git"
+  head "git://gitlab.com:kalilinux/packages/shellnoob.git"
   
 
   # depends_on "cmake" => :build

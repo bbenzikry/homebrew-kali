@@ -4,7 +4,7 @@
 
 class Keimpx < Formula
   homepage ""
-  head "git@gitlab.com:kalilinux/packages/keimpx.git"
+  head "git://gitlab.com:kalilinux/packages/keimpx.git"
   
 
   # depends_on "cmake" => :build

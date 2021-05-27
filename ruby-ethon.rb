@@ -4,7 +4,7 @@
 
 class RubyEthon < Formula
   homepage ""
-  head "git@gitlab.com:kalilinux/packages/ruby-ethon.git"
+  head "git://gitlab.com:kalilinux/packages/ruby-ethon.git"
   version "ethon"
   
 

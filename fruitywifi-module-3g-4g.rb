@@ -4,7 +4,7 @@
 
 class FruitywifiModule3g4g < Formula
   homepage ""
-  head "git@gitlab.com:kalilinux/packages/fruitywifi-module-3g-4g.git"
+  head "git://gitlab.com:kalilinux/packages/fruitywifi-module-3g-4g.git"
   version "module"
   
 

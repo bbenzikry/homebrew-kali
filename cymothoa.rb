@@ -4,7 +4,7 @@
 
 class Cymothoa < Formula
   homepage ""
-  head "git@gitlab.com:kalilinux/packages/cymothoa.git"
+  head "git://gitlab.com:kalilinux/packages/cymothoa.git"
   
 
   # depends_on "cmake" => :build

@@ -4,7 +4,7 @@
 
 class RubySimplecovHtml < Formula
   homepage ""
-  head "git@gitlab.com:kalilinux/packages/ruby-simplecov-html.git"
+  head "git://gitlab.com:kalilinux/packages/ruby-simplecov-html.git"
   version "simplecov"
   
 

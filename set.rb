@@ -4,7 +4,7 @@
 
 class Set < Formula
   homepage ""
-  head "git@gitlab.com:kalilinux/packages/set.git"
+  head "git://gitlab.com:kalilinux/packages/set.git"
   
 
   # depends_on "cmake" => :build

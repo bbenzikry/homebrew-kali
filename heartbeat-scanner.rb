@@ -4,7 +4,7 @@
 
 class HeartbeatScanner < Formula
   homepage ""
-  head "git@gitlab.com:kalilinux/packages/heartbeat-scanner.git"
+  head "git://gitlab.com:kalilinux/packages/heartbeat-scanner.git"
   version "scanner"
   
 

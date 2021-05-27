@@ -4,7 +4,7 @@
 
 class ApacheUsers < Formula
   homepage ""
-  head "git@gitlab.com:kalilinux/packages/apache-users.git"
+  head "git://gitlab.com:kalilinux/packages/apache-users.git"
   version "users"
   
 

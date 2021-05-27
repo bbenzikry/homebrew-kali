@@ -4,7 +4,7 @@
 
 class Urlcrazy < Formula
   homepage ""
-  head "git@gitlab.com:kalilinux/packages/headcrazy.git"
+  head "git://gitlab.com:kalilinux/packages/headcrazy.git"
   
 
   # depends_on "cmake" => :build

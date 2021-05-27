@@ -4,7 +4,7 @@
 
 class Mdk3 < Formula
   homepage ""
-  head "git@gitlab.com:kalilinux/packages/mdk3.git"
+  head "git://gitlab.com:kalilinux/packages/mdk3.git"
   version "3"
   
 

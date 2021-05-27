@@ -4,7 +4,7 @@
 
 class Freerdp < Formula
   homepage ""
-  head "git@gitlab.com:kalilinux/packages/freerdp.git"
+  head "git://gitlab.com:kalilinux/packages/freerdp.git"
   
 
   # depends_on "cmake" => :build

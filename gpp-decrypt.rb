@@ -4,7 +4,7 @@
 
 class GppDecrypt < Formula
   homepage ""
-  head "git@gitlab.com:kalilinux/packages/gpp-decrypt.git"
+  head "git://gitlab.com:kalilinux/packages/gpp-decrypt.git"
   version "decrypt"
   
 

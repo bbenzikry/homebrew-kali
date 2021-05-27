@@ -4,7 +4,7 @@
 
 class Giskismet < Formula
   homepage ""
-  head "git@gitlab.com:kalilinux/packages/giskismet.git"
+  head "git://gitlab.com:kalilinux/packages/giskismet.git"
   
 
   # depends_on "cmake" => :build

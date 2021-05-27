@@ -4,7 +4,7 @@
 
 class PythonTwitterToolset < Formula
   homepage ""
-  head "git@gitlab.com:kalilinux/packages/python-twitter-toolset.git"
+  head "git://gitlab.com:kalilinux/packages/python-twitter-toolset.git"
   version "twitter"
   
 

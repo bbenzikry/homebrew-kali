@@ -4,7 +4,7 @@
 
 class Creddump < Formula
   homepage ""
-  head "git@gitlab.com:kalilinux/packages/creddump.git"
+  head "git://gitlab.com:kalilinux/packages/creddump.git"
   
 
   # depends_on "cmake" => :build

@@ -4,7 +4,7 @@
 
 class RubyEventmachine < Formula
   homepage ""
-  head "git@gitlab.com:kalilinux/packages/ruby-eventmachine.git"
+  head "git://gitlab.com:kalilinux/packages/ruby-eventmachine.git"
   version "eventmachine"
   
 

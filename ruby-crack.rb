@@ -4,7 +4,7 @@
 
 class RubyCrack < Formula
   homepage ""
-  head "git@gitlab.com:kalilinux/packages/ruby-crack.git"
+  head "git://gitlab.com:kalilinux/packages/ruby-crack.git"
   version "crack"
   
 

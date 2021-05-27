@@ -4,7 +4,7 @@
 
 class Libcrafter < Formula
   homepage ""
-  head "git@gitlab.com:kalilinux/packages/libcrafter.git"
+  head "git://gitlab.com:kalilinux/packages/libcrafter.git"
   
 
   # depends_on "cmake" => :build

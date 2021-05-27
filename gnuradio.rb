@@ -4,7 +4,7 @@
 
 class Gnuradio < Formula
   homepage ""
-  head "git@gitlab.com:kalilinux/packages/gnuradio.git"
+  head "git://gitlab.com:kalilinux/packages/gnuradio.git"
   
 
   # depends_on "cmake" => :build

@@ -4,7 +4,7 @@
 
 class Webhandler < Formula
   homepage ""
-  head "git@gitlab.com:kalilinux/packages/webhandler.git"
+  head "git://gitlab.com:kalilinux/packages/webhandler.git"
   
 
   # depends_on "cmake" => :build

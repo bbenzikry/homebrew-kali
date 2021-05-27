@@ -4,7 +4,7 @@
 
 class Libfindrtp < Formula
   homepage ""
-  head "git@gitlab.com:kalilinux/packages/libfindrtp.git"
+  head "git://gitlab.com:kalilinux/packages/libfindrtp.git"
   
 
   # depends_on "cmake" => :build

@@ -4,7 +4,7 @@
 
 class Veil < Formula
   homepage ""
-  head "git@gitlab.com:kalilinux/packages/veil.git"
+  head "git://gitlab.com:kalilinux/packages/veil.git"
   
 
   # depends_on "cmake" => :build

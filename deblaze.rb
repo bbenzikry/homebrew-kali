@@ -4,7 +4,7 @@
 
 class Deblaze < Formula
   homepage ""
-  head "git@gitlab.com:kalilinux/packages/deblaze.git"
+  head "git://gitlab.com:kalilinux/packages/deblaze.git"
   
 
   # depends_on "cmake" => :build

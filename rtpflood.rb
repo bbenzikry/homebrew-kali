@@ -4,7 +4,7 @@
 
 class Rtpflood < Formula
   homepage ""
-  head "git@gitlab.com:kalilinux/packages/rtpflood.git"
+  head "git://gitlab.com:kalilinux/packages/rtpflood.git"
   
 
   # depends_on "cmake" => :build

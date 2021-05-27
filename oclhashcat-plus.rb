@@ -4,7 +4,7 @@
 
 class OclhashcatPlus < Formula
   homepage ""
-  head "git@gitlab.com:kalilinux/packages/oclhashcat-plus.git"
+  head "git://gitlab.com:kalilinux/packages/oclhashcat-plus.git"
   version "plus"
   
 

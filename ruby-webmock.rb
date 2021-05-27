@@ -4,7 +4,7 @@
 
 class RubyWebmock < Formula
   homepage ""
-  head "git@gitlab.com:kalilinux/packages/ruby-webmock.git"
+  head "git://gitlab.com:kalilinux/packages/ruby-webmock.git"
   version "webmock"
   
 

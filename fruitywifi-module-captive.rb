@@ -4,7 +4,7 @@
 
 class FruitywifiModuleCaptive < Formula
   homepage ""
-  head "git@gitlab.com:kalilinux/packages/fruitywifi-module-captive.git"
+  head "git://gitlab.com:kalilinux/packages/fruitywifi-module-captive.git"
   version "module"
   
 

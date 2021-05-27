@@ -4,7 +4,7 @@
 
 class RubyMinitest < Formula
   homepage ""
-  head "git@gitlab.com:kalilinux/packages/ruby-minitest.git"
+  head "git://gitlab.com:kalilinux/packages/ruby-minitest.git"
   version "minitest"
   
 

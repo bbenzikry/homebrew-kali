@@ -4,7 +4,7 @@
 
 class KalibrateRtl < Formula
   homepage ""
-  head "git@gitlab.com:kalilinux/packages/kalibrate-rtl.git"
+  head "git://gitlab.com:kalilinux/packages/kalibrate-rtl.git"
   version "rtl"
   
 

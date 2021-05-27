@@ -4,7 +4,7 @@
 
 class Seclists < Formula
   homepage ""
-  head "git@gitlab.com:kalilinux/packages/seclists.git"
+  head "git://gitlab.com:kalilinux/packages/seclists.git"
   
 
   # depends_on "cmake" => :build

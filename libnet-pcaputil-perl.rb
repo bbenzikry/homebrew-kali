@@ -4,7 +4,7 @@
 
 class LibnetPcaputilPerl < Formula
   homepage ""
-  head "git@gitlab.com:kalilinux/packages/libnet-pcaputils-perl.git"
+  head "git://gitlab.com:kalilinux/packages/libnet-pcaputils-perl.git"
   version "pcaputils"
   
 

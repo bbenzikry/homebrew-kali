@@ -4,7 +4,7 @@
 
 class Sfuzz < Formula
   homepage ""
-  head "git@gitlab.com:kalilinux/packages/sfuzz.git"
+  head "git://gitlab.com:kalilinux/packages/sfuzz.git"
   
 
   # depends_on "cmake" => :build

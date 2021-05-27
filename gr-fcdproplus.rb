@@ -4,7 +4,7 @@
 
 class GrFcdproplus < Formula
   homepage ""
-  head "git@gitlab.com:kalilinux/packages/gr-fcdproplus.git"
+  head "git://gitlab.com:kalilinux/packages/gr-fcdproplus.git"
   version "fcdproplus"
   
 

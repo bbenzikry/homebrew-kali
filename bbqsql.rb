@@ -4,7 +4,7 @@
 
 class Bbqsql < Formula
   homepage ""
-  head "git@gitlab.com:kalilinux/packages/bbqsql.git"
+  head "git://gitlab.com:kalilinux/packages/bbqsql.git"
   
 
   # depends_on "cmake" => :build

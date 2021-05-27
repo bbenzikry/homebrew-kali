@@ -4,7 +4,7 @@
 
 class Syslinux < Formula
   homepage ""
-  head "git@gitlab.com:kalilinux/packages/syslinux.git"
+  head "git://gitlab.com:kalilinux/packages/syslinux.git"
   
 
   # depends_on "cmake" => :build

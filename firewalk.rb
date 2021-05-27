@@ -4,7 +4,7 @@
 
 class Firewalk < Formula
   homepage ""
-  head "git@gitlab.com:kalilinux/packages/firewalk.git"
+  head "git://gitlab.com:kalilinux/packages/firewalk.git"
   
 
   # depends_on "cmake" => :build

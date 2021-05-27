@@ -4,7 +4,7 @@
 
 class VeilCatapult < Formula
   homepage ""
-  head "git@gitlab.com:kalilinux/packages/veil-catapult.git"
+  head "git://gitlab.com:kalilinux/packages/veil-catapult.git"
   version "catapult"
   
 

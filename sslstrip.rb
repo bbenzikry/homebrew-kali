@@ -4,7 +4,7 @@
 
 class Sslstrip < Formula
   homepage ""
-  head "git@gitlab.com:kalilinux/packages/sslstrip.git"
+  head "git://gitlab.com:kalilinux/packages/sslstrip.git"
   
 
   # depends_on "cmake" => :build

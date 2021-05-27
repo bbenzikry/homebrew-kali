@@ -4,7 +4,7 @@
 
 class FruitywifiModuleNmcli < Formula
   homepage ""
-  head "git@gitlab.com:kalilinux/packages/fruitywifi-module-nmcli.git"
+  head "git://gitlab.com:kalilinux/packages/fruitywifi-module-nmcli.git"
   version "module"
   
 

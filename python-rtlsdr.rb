@@ -4,7 +4,7 @@
 
 class PythonRtlsdr < Formula
   homepage ""
-  head "git@gitlab.com:kalilinux/packages/python-rtlsdr.git"
+  head "git://gitlab.com:kalilinux/packages/python-rtlsdr.git"
   version "rtlsdr"
   
 

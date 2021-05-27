@@ -4,7 +4,7 @@
 
 class Asleap < Formula
   homepage ""
-  head "git@gitlab.com:kalilinux/packages/asleap.git"
+  head "git://gitlab.com:kalilinux/packages/asleap.git"
   
 
   # depends_on "cmake" => :build

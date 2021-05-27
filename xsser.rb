@@ -4,7 +4,7 @@
 
 class Xsser < Formula
   homepage ""
-  head "git@gitlab.com:kalilinux/packages/xsser.git"
+  head "git://gitlab.com:kalilinux/packages/xsser.git"
   
 
   # depends_on "cmake" => :build

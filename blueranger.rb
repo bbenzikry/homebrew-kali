@@ -4,7 +4,7 @@
 
 class Blueranger < Formula
   homepage ""
-  head "git@gitlab.com:kalilinux/packages/blueranger.git"
+  head "git://gitlab.com:kalilinux/packages/blueranger.git"
   
 
   # depends_on "cmake" => :build

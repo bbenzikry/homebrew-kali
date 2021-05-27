@@ -4,7 +4,7 @@
 
 class PythonCryptography < Formula
   homepage ""
-  head "git@gitlab.com:kalilinux/packages/python-cryptography.git"
+  head "git://gitlab.com:kalilinux/packages/python-cryptography.git"
   version "cryptography"
   
 

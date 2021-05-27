@@ -4,7 +4,7 @@
 
 class PythonEsmre < Formula
   homepage ""
-  head "git@gitlab.com:kalilinux/packages/python-esmre.git"
+  head "git://gitlab.com:kalilinux/packages/python-esmre.git"
   version "esmre"
   
 

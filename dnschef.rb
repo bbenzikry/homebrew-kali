@@ -4,7 +4,7 @@
 
 class Dnschef < Formula
   homepage ""
-  head "git@gitlab.com:kalilinux/packages/dnschef.git"
+  head "git://gitlab.com:kalilinux/packages/dnschef.git"
   
 
   # depends_on "cmake" => :build

@@ -4,7 +4,7 @@
 
 class RubyDmSqliteAdapter < Formula
   homepage ""
-  head "git@gitlab.com:kalilinux/packages/ruby-dm-sqlite-adapter.git"
+  head "git://gitlab.com:kalilinux/packages/ruby-dm-sqlite-adapter.git"
   version "dm"
   
 

@@ -4,7 +4,7 @@
 
 class Webslayer < Formula
   homepage ""
-  head "git@gitlab.com:kalilinux/packages/webslayer.git"
+  head "git://gitlab.com:kalilinux/packages/webslayer.git"
   
 
   # depends_on "cmake" => :build

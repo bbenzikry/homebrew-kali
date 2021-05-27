@@ -4,7 +4,7 @@
 
 class Ftester < Formula
   homepage ""
-  head "git@gitlab.com:kalilinux/packages/ftester.git"
+  head "git://gitlab.com:kalilinux/packages/ftester.git"
   
 
   # depends_on "cmake" => :build

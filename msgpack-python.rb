@@ -4,7 +4,7 @@
 
 class MsgpackPython < Formula
   homepage ""
-  head "git@gitlab.com:kalilinux/packages/msgpack-python.git"
+  head "git://gitlab.com:kalilinux/packages/msgpack-python.git"
   version "python"
   
 

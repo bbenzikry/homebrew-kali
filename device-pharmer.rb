@@ -4,7 +4,7 @@
 
 class DevicePharmer < Formula
   homepage ""
-  head "git@gitlab.com:kalilinux/packages/device-pharmer.git"
+  head "git://gitlab.com:kalilinux/packages/device-pharmer.git"
   version "pharmer"
   
 

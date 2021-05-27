@@ -4,7 +4,7 @@
 
 class Intrace < Formula
   homepage ""
-  head "git@gitlab.com:kalilinux/packages/intrace.git"
+  head "git://gitlab.com:kalilinux/packages/intrace.git"
   
 
   # depends_on "cmake" => :build

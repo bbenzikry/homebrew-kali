@@ -4,7 +4,7 @@
 
 class Plecost < Formula
   homepage ""
-  head "git@gitlab.com:kalilinux/packages/plecost.git"
+  head "git://gitlab.com:kalilinux/packages/plecost.git"
   
 
   # depends_on "cmake" => :build

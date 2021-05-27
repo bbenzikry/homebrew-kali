@@ -4,7 +4,7 @@
 
 class RubyFaraday < Formula
   homepage ""
-  head "git@gitlab.com:kalilinux/packages/ruby-faraday.git"
+  head "git://gitlab.com:kalilinux/packages/ruby-faraday.git"
   version "faraday"
   
 

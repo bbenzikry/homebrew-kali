@@ -4,7 +4,7 @@
 
 class Dff < Formula
   homepage ""
-  head "git@gitlab.com:kalilinux/packages/dff.git"
+  head "git://gitlab.com:kalilinux/packages/dff.git"
   
 
   # depends_on "cmake" => :build

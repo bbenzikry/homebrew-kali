@@ -4,7 +4,7 @@
 
 class Davtest < Formula
   homepage ""
-  head "git@gitlab.com:kalilinux/packages/davtest.git"
+  head "git://gitlab.com:kalilinux/packages/davtest.git"
   
 
   # depends_on "cmake" => :build

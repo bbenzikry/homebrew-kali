@@ -4,7 +4,7 @@
 
 class Sandi < Formula
   homepage ""
-  head "git@gitlab.com:kalilinux/packages/sandi.git"
+  head "git://gitlab.com:kalilinux/packages/sandi.git"
   
 
   # depends_on "cmake" => :build

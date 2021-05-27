@@ -4,7 +4,7 @@
 
 class Findmyhash < Formula
   homepage ""
-  head "git@gitlab.com:kalilinux/packages/findmyhash.git"
+  head "git://gitlab.com:kalilinux/packages/findmyhash.git"
   
 
   # depends_on "cmake" => :build

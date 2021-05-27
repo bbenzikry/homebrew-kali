@@ -4,7 +4,7 @@
 
 class PythonTblib < Formula
   homepage ""
-  head "git@gitlab.com:kalilinux/packages/python-tblib.git"
+  head "git://gitlab.com:kalilinux/packages/python-tblib.git"
   version "tblib"
   
 

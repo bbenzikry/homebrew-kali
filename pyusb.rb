@@ -4,7 +4,7 @@
 
 class Pyusb < Formula
   homepage ""
-  head "git@gitlab.com:kalilinux/packages/pyusb.git"
+  head "git://gitlab.com:kalilinux/packages/pyusb.git"
   
 
   # depends_on "cmake" => :build

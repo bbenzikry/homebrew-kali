@@ -4,7 +4,7 @@
 
 class Grabber < Formula
   homepage ""
-  head "git@gitlab.com:kalilinux/packages/grabber.git"
+  head "git://gitlab.com:kalilinux/packages/grabber.git"
   
 
   # depends_on "cmake" => :build

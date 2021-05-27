@@ -4,7 +4,7 @@
 
 class Parsero < Formula
   homepage ""
-  head "git@gitlab.com:kalilinux/packages/parsero.git"
+  head "git://gitlab.com:kalilinux/packages/parsero.git"
   
 
   # depends_on "cmake" => :build

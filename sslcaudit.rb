@@ -4,7 +4,7 @@
 
 class Sslcaudit < Formula
   homepage ""
-  head "git@gitlab.com:kalilinux/packages/sslcaudit.git"
+  head "git://gitlab.com:kalilinux/packages/sslcaudit.git"
   
 
   # depends_on "cmake" => :build

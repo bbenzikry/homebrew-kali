@@ -4,7 +4,7 @@
 
 class RubyCoveralls < Formula
   homepage ""
-  head "git@gitlab.com:kalilinux/packages/ruby-coveralls.git"
+  head "git://gitlab.com:kalilinux/packages/ruby-coveralls.git"
   version "coveralls"
   
 

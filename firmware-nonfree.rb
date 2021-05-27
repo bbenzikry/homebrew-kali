@@ -4,7 +4,7 @@
 
 class FirmwareNonfree < Formula
   homepage ""
-  head "git@gitlab.com:kalilinux/packages/firmware-nonfree.git"
+  head "git://gitlab.com:kalilinux/packages/firmware-nonfree.git"
   version "nonfree"
   
 

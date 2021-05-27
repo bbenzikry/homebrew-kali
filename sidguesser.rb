@@ -4,7 +4,7 @@
 
 class Sidguesser < Formula
   homepage ""
-  head "git@gitlab.com:kalilinux/packages/sidguesser.git"
+  head "git://gitlab.com:kalilinux/packages/sidguesser.git"
   
 
   # depends_on "cmake" => :build

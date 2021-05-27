@@ -4,7 +4,7 @@
 
 class Httprint < Formula
   homepage ""
-  head "git@gitlab.com:kalilinux/packages/httprint.git"
+  head "git://gitlab.com:kalilinux/packages/httprint.git"
   
 
   # depends_on "cmake" => :build

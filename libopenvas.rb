@@ -4,7 +4,7 @@
 
 class Libopenvas < Formula
   homepage ""
-  head "git@gitlab.com:kalilinux/packages/openvas-libraries.git"
+  head "git://gitlab.com:kalilinux/packages/openvas-libraries.git"
   version "libraries"
   
 

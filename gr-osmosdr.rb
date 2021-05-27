@@ -4,7 +4,7 @@
 
 class GrOsmosdr < Formula
   homepage ""
-  head "git@gitlab.com:kalilinux/packages/gr-osmosdr.git"
+  head "git://gitlab.com:kalilinux/packages/gr-osmosdr.git"
   version "osmosdr"
   
 

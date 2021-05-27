@@ -4,7 +4,7 @@
 
 class Wordlists < Formula
   homepage ""
-  head "git@gitlab.com:kalilinux/packages/wordlists.git"
+  head "git://gitlab.com:kalilinux/packages/wordlists.git"
   
 
   # depends_on "cmake" => :build

@@ -4,7 +4,7 @@
 
 class Eresi < Formula
   homepage ""
-  head "git@gitlab.com:kalilinux/packages/eresi.git"
+  head "git://gitlab.com:kalilinux/packages/eresi.git"
   
 
   # depends_on "cmake" => :build

@@ -4,7 +4,7 @@
 
 class Intersect < Formula
   homepage ""
-  head "git@gitlab.com:kalilinux/packages/intersect.git"
+  head "git://gitlab.com:kalilinux/packages/intersect.git"
   
 
   # depends_on "cmake" => :build

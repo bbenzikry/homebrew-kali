@@ -4,7 +4,7 @@
 
 class Sbd < Formula
   homepage ""
-  head "git@gitlab.com:kalilinux/packages/sbd.git"
+  head "git://gitlab.com:kalilinux/packages/sbd.git"
   
 
   # depends_on "cmake" => :build

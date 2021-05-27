@@ -4,7 +4,7 @@
 
 class Paros < Formula
   homepage ""
-  head "git@gitlab.com:kalilinux/packages/paros.git"
+  head "git://gitlab.com:kalilinux/packages/paros.git"
   
 
   # depends_on "cmake" => :build

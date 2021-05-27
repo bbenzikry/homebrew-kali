@@ -4,7 +4,7 @@
 
 class Libisoburn < Formula
   homepage ""
-  head "git@gitlab.com:kalilinux/packages/libisoburn.git"
+  head "git://gitlab.com:kalilinux/packages/libisoburn.git"
   
 
   # depends_on "cmake" => :build

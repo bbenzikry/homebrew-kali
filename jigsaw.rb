@@ -4,7 +4,7 @@
 
 class Jigsaw < Formula
   homepage ""
-  head "git@gitlab.com:kalilinux/packages/jigsaw.git"
+  head "git://gitlab.com:kalilinux/packages/jigsaw.git"
   
 
   # depends_on "cmake" => :build

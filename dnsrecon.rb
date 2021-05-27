@@ -4,7 +4,7 @@
 
 class Dnsrecon < Formula
   homepage ""
-  head "git@gitlab.com:kalilinux/packages/dnsrecon.git"
+  head "git://gitlab.com:kalilinux/packages/dnsrecon.git"
   
 
   # depends_on "cmake" => :build

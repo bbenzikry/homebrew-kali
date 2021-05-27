@@ -4,7 +4,7 @@
 
 class Rdesktop < Formula
   homepage ""
-  head "git@gitlab.com:kalilinux/packages/rdesktop.git"
+  head "git://gitlab.com:kalilinux/packages/rdesktop.git"
   
 
   # depends_on "cmake" => :build

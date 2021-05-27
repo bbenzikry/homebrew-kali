@@ -4,7 +4,7 @@
 
 class Dotdotpwn < Formula
   homepage ""
-  head "git@gitlab.com:kalilinux/packages/dotdotpwn.git"
+  head "git://gitlab.com:kalilinux/packages/dotdotpwn.git"
   
 
   # depends_on "cmake" => :build

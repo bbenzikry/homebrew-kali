@@ -4,7 +4,7 @@
 
 class CupidWpa < Formula
   homepage ""
-  head "git@gitlab.com:kalilinux/packages/cupid-wpa.git"
+  head "git://gitlab.com:kalilinux/packages/cupid-wpa.git"
   version "wpa"
   
 

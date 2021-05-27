@@ -4,7 +4,7 @@
 
 class Dirbuster < Formula
   homepage ""
-  head "git@gitlab.com:kalilinux/packages/dirbuster.git"
+  head "git://gitlab.com:kalilinux/packages/dirbuster.git"
   
 
   # depends_on "cmake" => :build

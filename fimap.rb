@@ -4,7 +4,7 @@
 
 class Fimap < Formula
   homepage ""
-  head "git@gitlab.com:kalilinux/packages/fimap.git"
+  head "git://gitlab.com:kalilinux/packages/fimap.git"
   
 
   # depends_on "cmake" => :build

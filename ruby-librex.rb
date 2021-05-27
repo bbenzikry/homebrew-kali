@@ -4,7 +4,7 @@
 
 class RubyLibrex < Formula
   homepage ""
-  head "git@gitlab.com:kalilinux/packages/ruby-librex.git"
+  head "git://gitlab.com:kalilinux/packages/ruby-librex.git"
   version "librex"
   
 

@@ -4,7 +4,7 @@
 
 class Zer0trace < Formula
   homepage ""
-  head "git@gitlab.com:kalilinux/packages/0trace.git"
+  head "git://gitlab.com:kalilinux/packages/0trace.git"
   
 
   # depends_on "cmake" => :build

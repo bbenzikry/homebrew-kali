@@ -4,7 +4,7 @@
 
 class PythonPythonect < Formula
   homepage ""
-  head "git@gitlab.com:kalilinux/packages/python-pythonect.git"
+  head "git://gitlab.com:kalilinux/packages/python-pythonect.git"
   version "pythonect"
   
 

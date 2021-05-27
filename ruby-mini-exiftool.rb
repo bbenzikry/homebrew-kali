@@ -4,7 +4,7 @@
 
 class RubyMiniExiftool < Formula
   homepage ""
-  head "git@gitlab.com:kalilinux/packages/ruby-mini-exiftool.git"
+  head "git://gitlab.com:kalilinux/packages/ruby-mini-exiftool.git"
   version "mini"
   
 

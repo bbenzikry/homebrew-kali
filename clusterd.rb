@@ -4,7 +4,7 @@
 
 class Clusterd < Formula
   homepage ""
-  head "git@gitlab.com:kalilinux/packages/clusterd.git"
+  head "git://gitlab.com:kalilinux/packages/clusterd.git"
   
 
   # depends_on "cmake" => :build

@@ -4,7 +4,7 @@
 
 class RootskelGtk < Formula
   homepage ""
-  head "git@gitlab.com:kalilinux/packages/rootskel-gtk.git"
+  head "git://gitlab.com:kalilinux/packages/rootskel-gtk.git"
   version "gtk"
   
 

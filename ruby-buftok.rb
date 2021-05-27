@@ -4,7 +4,7 @@
 
 class RubyBuftok < Formula
   homepage ""
-  head "git@gitlab.com:kalilinux/packages/ruby-buftok.git"
+  head "git://gitlab.com:kalilinux/packages/ruby-buftok.git"
   version "buftok"
   
 

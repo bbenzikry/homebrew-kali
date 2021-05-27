@@ -4,7 +4,7 @@
 
 class RubyEmWebsocket < Formula
   homepage ""
-  head "git@gitlab.com:kalilinux/packages/ruby-em-websocket.git"
+  head "git://gitlab.com:kalilinux/packages/ruby-em-websocket.git"
   version "em"
   
 

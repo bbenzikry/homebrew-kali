@@ -4,7 +4,7 @@
 
 class NipperNg < Formula
   homepage ""
-  head "git@gitlab.com:kalilinux/packages/nipper-ng.git"
+  head "git://gitlab.com:kalilinux/packages/nipper-ng.git"
   version "ng"
   
 

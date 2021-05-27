@@ -4,7 +4,7 @@
 
 class Bed < Formula
   homepage ""
-  head "git@gitlab.com:kalilinux/packages/bed.git"
+  head "git://gitlab.com:kalilinux/packages/bed.git"
   
 
   # depends_on "cmake" => :build

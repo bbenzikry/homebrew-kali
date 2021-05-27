@@ -4,7 +4,7 @@
 
 class Cryptsetup < Formula
   homepage ""
-  head "git@gitlab.com:kalilinux/packages/cryptsetup.git"
+  head "git://gitlab.com:kalilinux/packages/cryptsetup.git"
   
 
   # depends_on "cmake" => :build

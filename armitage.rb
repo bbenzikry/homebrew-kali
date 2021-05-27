@@ -4,7 +4,7 @@
 
 class Armitage < Formula
   homepage ""
-  head "git@gitlab.com:kalilinux/packages/armitage.git"
+  head "git://gitlab.com:kalilinux/packages/armitage.git"
   
 
   # depends_on "cmake" => :build

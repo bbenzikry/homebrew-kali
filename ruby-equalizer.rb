@@ -4,7 +4,7 @@
 
 class RubyEqualizer < Formula
   homepage ""
-  head "git@gitlab.com:kalilinux/packages/ruby-equalizer.git"
+  head "git://gitlab.com:kalilinux/packages/ruby-equalizer.git"
   version "equalizer"
   
 

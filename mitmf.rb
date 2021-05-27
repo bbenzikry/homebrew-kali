@@ -4,7 +4,7 @@
 
 class Mitmf < Formula
   homepage ""
-  head "git@gitlab.com:kalilinux/packages/mitmf.git"
+  head "git://gitlab.com:kalilinux/packages/mitmf.git"
   
 
   # depends_on "cmake" => :build

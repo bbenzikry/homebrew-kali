@@ -4,7 +4,7 @@
 
 class Rsmangler < Formula
   homepage ""
-  head "git@gitlab.com:kalilinux/packages/rsmangler.git"
+  head "git://gitlab.com:kalilinux/packages/rsmangler.git"
   
 
   # depends_on "cmake" => :build

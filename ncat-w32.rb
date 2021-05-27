@@ -4,7 +4,7 @@
 
 class NcatW32 < Formula
   homepage ""
-  head "git@gitlab.com:kalilinux/packages/ncat-w32.git"
+  head "git://gitlab.com:kalilinux/packages/ncat-w32.git"
   version "32"
   
 

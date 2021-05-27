@@ -4,7 +4,7 @@
 
 class T50 < Formula
   homepage ""
-  head "git@gitlab.com:kalilinux/packages/t50.git"
+  head "git://gitlab.com:kalilinux/packages/t50.git"
   version "50"
   
 

@@ -4,7 +4,7 @@
 
 class Enum4linux < Formula
   homepage ""
-  head "git@gitlab.com:kalilinux/packages/enum4linux.git"
+  head "git://gitlab.com:kalilinux/packages/enum4linux.git"
   
 
   # depends_on "cmake" => :build

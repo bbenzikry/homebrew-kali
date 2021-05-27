@@ -4,7 +4,7 @@
 
 class PythonMockito < Formula
   homepage ""
-  head "git@gitlab.com:kalilinux/packages/python-mockito.git"
+  head "git://gitlab.com:kalilinux/packages/python-mockito.git"
   version "mockito"
   
 

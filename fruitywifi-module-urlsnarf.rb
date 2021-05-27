@@ -4,7 +4,7 @@
 
 class FruitywifiModuleUrlsnarf < Formula
   homepage ""
-  head "git@gitlab.com:kalilinux/packages/fruitywifi-module-headsnarf.git"
+  head "git://gitlab.com:kalilinux/packages/fruitywifi-module-headsnarf.git"
   version "module"
   
 

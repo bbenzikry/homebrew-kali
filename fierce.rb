@@ -4,7 +4,7 @@
 
 class Fierce < Formula
   homepage ""
-  head "git@gitlab.com:kalilinux/packages/fierce.git"
+  head "git://gitlab.com:kalilinux/packages/fierce.git"
   
 
   # depends_on "cmake" => :build

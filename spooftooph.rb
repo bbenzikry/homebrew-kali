@@ -4,7 +4,7 @@
 
 class Spooftooph < Formula
   homepage ""
-  head "git@gitlab.com:kalilinux/packages/spooftooph.git"
+  head "git://gitlab.com:kalilinux/packages/spooftooph.git"
   
 
   # depends_on "cmake" => :build

@@ -4,7 +4,7 @@
 
 class Xplico < Formula
   homepage ""
-  head "git@gitlab.com:kalilinux/packages/xplico.git"
+  head "git://gitlab.com:kalilinux/packages/xplico.git"
   
 
   # depends_on "cmake" => :build

@@ -4,7 +4,7 @@
 
 class HashIdentifier < Formula
   homepage ""
-  head "git@gitlab.com:kalilinux/packages/hash-identifier.git"
+  head "git://gitlab.com:kalilinux/packages/hash-identifier.git"
   version "identifier"
   
 

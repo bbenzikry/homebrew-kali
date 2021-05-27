@@ -4,7 +4,7 @@
 
 class PythonPretend < Formula
   homepage ""
-  head "git@gitlab.com:kalilinux/packages/python-pretend.git"
+  head "git://gitlab.com:kalilinux/packages/python-pretend.git"
   version "pretend"
   
 

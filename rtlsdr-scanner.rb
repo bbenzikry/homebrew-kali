@@ -4,7 +4,7 @@
 
 class RtlsdrScanner < Formula
   homepage ""
-  head "git@gitlab.com:kalilinux/packages/rtlsdr-scanner.git"
+  head "git://gitlab.com:kalilinux/packages/rtlsdr-scanner.git"
   version "scanner"
   
 

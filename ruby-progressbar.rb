@@ -4,7 +4,7 @@
 
 class RubyProgressbar < Formula
   homepage ""
-  head "git@gitlab.com:kalilinux/packages/ruby-progressbar.git"
+  head "git://gitlab.com:kalilinux/packages/ruby-progressbar.git"
   version "progressbar"
   
 

@@ -4,7 +4,7 @@
 
 class Wpa < Formula
   homepage ""
-  head "git@gitlab.com:kalilinux/packages/wpa.git"
+  head "git://gitlab.com:kalilinux/packages/wpa.git"
   
 
   # depends_on "cmake" => :build

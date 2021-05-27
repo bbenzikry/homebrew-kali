@@ -4,7 +4,7 @@
 
 class FruitywifiModuleRpitwit < Formula
   homepage ""
-  head "git@gitlab.com:kalilinux/packages/fruitywifi-module-rpitwit.git"
+  head "git://gitlab.com:kalilinux/packages/fruitywifi-module-rpitwit.git"
   version "module"
   
 

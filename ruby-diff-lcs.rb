@@ -4,7 +4,7 @@
 
 class RubyDiffLcs < Formula
   homepage ""
-  head "git@gitlab.com:kalilinux/packages/ruby-diff-lcs.git"
+  head "git://gitlab.com:kalilinux/packages/ruby-diff-lcs.git"
   version "diff"
   
 

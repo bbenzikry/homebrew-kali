@@ -4,7 +4,7 @@
 
 class RubyTimecop < Formula
   homepage ""
-  head "git@gitlab.com:kalilinux/packages/ruby-timecop.git"
+  head "git://gitlab.com:kalilinux/packages/ruby-timecop.git"
   version "timecop"
   
 

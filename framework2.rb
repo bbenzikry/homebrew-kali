@@ -4,7 +4,7 @@
 
 class Framework2 < Formula
   homepage ""
-  head "git@gitlab.com:kalilinux/packages/framework2.git"
+  head "git://gitlab.com:kalilinux/packages/framework2.git"
   version "2"
   
 

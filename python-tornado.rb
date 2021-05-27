@@ -4,7 +4,7 @@
 
 class PythonTornado < Formula
   homepage ""
-  head "git@gitlab.com:kalilinux/packages/python-tornado.git"
+  head "git://gitlab.com:kalilinux/packages/python-tornado.git"
   version "tornado"
   
 

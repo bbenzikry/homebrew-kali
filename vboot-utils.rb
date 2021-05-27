@@ -4,7 +4,7 @@
 
 class VbootUtils < Formula
   homepage ""
-  head "git@gitlab.com:kalilinux/packages/vboot-utils.git"
+  head "git://gitlab.com:kalilinux/packages/vboot-utils.git"
   version "utils"
   
 

@@ -4,7 +4,7 @@
 
 class Enumiax < Formula
   homepage ""
-  head "git@gitlab.com:kalilinux/packages/enumiax.git"
+  head "git://gitlab.com:kalilinux/packages/enumiax.git"
   
 
   # depends_on "cmake" => :build

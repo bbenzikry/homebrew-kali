@@ -4,7 +4,7 @@
 
 class JdGui < Formula
   homepage ""
-  head "git@gitlab.com:kalilinux/packages/jd-gui.git"
+  head "git://gitlab.com:kalilinux/packages/jd-gui.git"
   version "gui"
   
 
